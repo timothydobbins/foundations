@@ -2,17 +2,17 @@
 title: "Course schedule"
 ---
 
-| Week    | Software Clinic      | In-person Tutorial                |  Online Tutorial                   |Lecture                   |
-|---------|----------------------|-----------------------------------|------------------------------------|--------------------------|
-| Week 0  | Introductory video   |                                   |                                    |Introductory video        |
-| Week 1  | Mon 29/5 </br> 6-8pm |                                   |                                    |Lecture 1 </br> Thu 1/6, 6-8pm  |
-| Week 2  | Mon 5/6  </br> 6-8pm | Tutorial 1  </br> Tue 6/6, 3-5pm  |  Tutorial 1  </br> Tue 6/6, 7-8pm  |Lecture 2 </br> Thu 8/6, 6-8pm  |
-| Week 3  |                      | Tutorial 2  </br> Tue 13/6, 3-5pm |  Tutorial 2  </br> Tue 13/6, 7-8pm |Lecture 3 </br> Thu 15/6, 6-8pm |
-| Week 4  | Mon 19/6 </br> 6-8pm | Tutorial 3  </br> Tue 20/6, 3-5pm |  Tutorial 3  </br> Tue 20/6, 7-8pm |Lecture 4 </br> Thu 22/6, 6-8pm |
-| Week 5  |                      | Tutorial 4  </br> Tue 27/6, 3-5pm |  Tutorial 4  </br> Tue 27/6, 7-8pm |Lecture 5 </br> Thu 29/6, 6-8pm |
-| Week 6  |                      | Tutorial 5  </br> Tue 4/7, 3-5pm  |  Tutorial 5  </br> Tue 4/7, 7-8pm  |Lecture 6 </br> Thu 6/7, 6-8pm  |
-| Week 7  |                      | Tutorial 7  </br> Tue 18/7, 3-5pm |  Tutorial 7  </br> Tue 18/7, 7-8pm |Lecture 8 </br> Thu 20/7, 6-8pm |
-| Week 8  |                      | Tutorial 7  </br> Tue 18/7, 3-5pm |  Tutorial 7  </br> Tue 18/7, 7-8pm |Lecture 8 </br> Thu 20/7, 6-8pm |
-| Week 9  |                      | Tutorial 8  </br> Tue 25/7, 3-5pm |  Tutorial 8  </br> Tue 25/7, 7-8pm |Lecture 9 </br> Thu 27/7, 6-8pm |
-| Week 10 |                      | Tutorial 9  </br> Tue 1/8, 3-5pm  |  Tutorial 9  </br> Tue 1/8, 7-8pm  |Lecture 10 </br> Thu 3/8, 6-8pm |
-| Week 11 |                      | Tutorial 10 </br> Tue 8/8, 3-5pm  |  Tutorial 10 </br> Tue 8/8, 7-8pm  |                          |
+| Week    | Software Clinic      | In-person Tutorial               | Online Tutorial                  | Lecture                         |
+|--------------|--------------|---------------|----------------|--------------|
+| Week 0  | Introductory video   |                                  |                                  | Introductory video              |
+| Week 1  | Mon 29/5 </br> 6-8pm |                                  |                                  | Lecture 1 </br> Thu 1/6, 6-8pm  |
+| Week 2  | Mon 5/6 </br> 6-8pm  | Tutorial 1 </br> Tue 6/6, 3-5pm  | Tutorial 1 </br> Tue 6/6, 7-9pm  | Lecture 2 </br> Thu 8/6, 6-8pm  |
+| Week 3  |                      | Tutorial 2 </br> Tue 13/6, 3-5pm | Tutorial 2 </br> Tue 13/6, 7-9pm | Lecture 3 </br> Thu 15/6, 6-8pm |
+| Week 4  | Mon 19/6 </br> 6-8pm | Tutorial 3 </br> Tue 20/6, 3-5pm | Tutorial 3 </br> Tue 20/6, 7-9pm | Lecture 4 </br> Thu 22/6, 6-8pm |
+| Week 5  |                      | Tutorial 4 </br> Tue 27/6, 3-5pm | Tutorial 4 </br> Tue 27/6, 7-9pm | Lecture 5 </br> Thu 29/6, 6-8pm |
+| Week 6  |                      | Tutorial 5 </br> Tue 4/7, 3-5pm  | Tutorial 5 </br> Tue 4/7, 7-9pm  | Lecture 6 </br> Thu 6/7, 6-8pm  |
+| Week 7  |                      | Tutorial 7 </br> Tue 18/7, 3-5pm | Tutorial 7 </br> Tue 18/7, 7-9pm | Lecture 8 </br> Thu 20/7, 6-8pm |
+| Week 8  |                      | Tutorial 7 </br> Tue 18/7, 3-5pm | Tutorial 7 </br> Tue 18/7, 7-9pm | Lecture 8 </br> Thu 20/7, 6-8pm |
+| Week 9  |                      | Tutorial 8 </br> Tue 25/7, 3-5pm | Tutorial 8 </br> Tue 25/7, 7-9pm | Lecture 9 </br> Thu 27/7, 6-8pm |
+| Week 10 |                      | Tutorial 9 </br> Tue 1/8, 3-5pm  | Tutorial 9 </br> Tue 1/8, 7-9pm  | Lecture 10 </br> Thu 3/8, 6-8pm |
+| Week 11 |                      | Tutorial 10 </br> Tue 8/8, 3-5pm | Tutorial 10 </br> Tue 8/8, 7-9pm |                                 |
