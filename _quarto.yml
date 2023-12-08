@@ -10,6 +10,7 @@ website:
         text: Home
       - software.qmd
       - schedule.qmd
+      - q_and_a.qmd
 
 format:
   html:

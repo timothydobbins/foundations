@@ -1,0 +1,37 @@
+---
+title: "Q&A"
+---
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## Can Foundations of Biostatistics course be completed entirely remotely? Are there any attendance requirements?
+
+There is no requirement to attend any in-person events. Many students don't come to campus, and the course is designed to be accessible by all students. In fact, many students have completed the course while living overseas.
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## Are there any prerequisites or any expected background knowledge for this course?
+
+No! There are no prerequisite mathematics requirements, and you do not need to have studied statistics before.
+
+If it has been a while since you have studied maths, the following resources from Unit 1 of the Algebra Basics from the Khan Academy might be useful:
+
+https://www.khanacademy.org/math/algebra-basics/basic-alg-foundations
+
+Don't worry that it's got "algebra" in its title, it's just some basic maths skills that you might not remember so well. And don't feel like you need to formally enrol, or study every section: just watch some of the videos and read some of the notes for the topics that you might not remember - and maybe take some of the quizzes. I would recommend the section on "Order of Operations", but you can definitely skip "Area of triangles" and "Circumference and area of circles" 
+:::
+
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## I can only study one course this term. Should I study Foundations of Biostatistics or Foundations of Epidemiology?
+
+
+Many students put off studying Foundations of Biostatistics in the (mistaken) belief that it will be too difficult. Please don't do this! Foundations of Biostatistics is designed to be accessible for all students, regardless of your maths background.
+
+completing either Epidemiology first or Biostatistics first would be fine. Last year, the first year these courses ran, there were slightly more students doing Epidemiology -- so we think more students chose to complete Epidemiology first.
+
+Your future course choices and your timetable might help you answer this. For example, if you know you want to complete Epidemiological Methods, then completing Epi first would be sensible. If you know you want to complete Advanced Biostatistics (to be called Regression Methods in Biostatistics from 2023), completing Biostatistics first would be useful.
+
+So basically, there's no "right" course to be completed first. You will get a lot out of either course, whatever you decide to complete first.
+:::
+
+Do you have a question that is not answered here? Please [email me](mailto:t.dobbins@unsw.edu.au), and I can provide an answer.
