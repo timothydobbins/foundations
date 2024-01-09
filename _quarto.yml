@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - software.qmd
-      - schedule.qmd
+      # - schedule.qmd
       - q_and_a.qmd
 
 format:
@@ -18,5 +18,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

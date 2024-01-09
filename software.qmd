@@ -4,11 +4,9 @@ title: "Statistical software"
 
 In this course, you can choose to learn one of two packages: [Stata](https://www.stata.com/) or [R](https://www.r-project.org/).
 
-Stata is an excellent statistics package which is relatively easy to learn, and covers virtually all the methods a researcher in population health would need. Students can access Stata software on some computers in the Wallace Wurth Building computer laboratory on Monday evenings 6-8pm (during the scheduled clinics -- see timetable). This computer laboratory is also available to students on other weekdays and times when other classes are not scheduled. You can also access Stata remotely via <https://www.myaccess.unsw.edu.au/> . Please note that there is a 40-user limit on accessing Stata remotely.
+Stata is an excellent statistics package which is relatively easy to learn, and covers virtually all the methods a researcher in population health would need. You can access Stata remotely via <https://www.myaccess.unsw.edu.au/> . Please note that there is a 40-user limit on accessing Stata remotely.
 
-If you are not able to access Stata, you can purchase your own license. We use Stata/BE Version 17 for this course. Stata/BE is the Basic Edition of Stata and is more than enough to carry out all the tasks in an introductory level as well as advanced level biostatistics course. Students can buy a 6-month license for AUD\$81 or a one-year license for AUD\$157 from <https://www.stata-au.com/> (Note that prices are correct as of March 2023).
-
-Older versions of Stata (down to version 11) will also be suitable for this course.
+If you are not able to access Stata, or if you find myAccess inconvenient, you can purchase your own license. We use Stata/BE Version 18 for this course. Stata/BE is the Basic Edition of Stata and is more than enough to carry out all the tasks in an introductory level as well as advanced level biostatistics course. You can buy a 6-month license for AUD\$82 or a one-year license for AUD\$160 from <https://www.stata-au.com/> (Note that prices are correct as of December 2023).
 
 R is becoming a popular choice for biostatistics due to its flexibility and its power. Additionally, as R is an open-source project, it is available at no cost. While R has a cost advantage, it does have a reputation of being difficult to learn.
 
