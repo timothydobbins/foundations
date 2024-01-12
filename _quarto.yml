@@ -11,6 +11,7 @@ website:
       - software.qmd
       # - schedule.qmd
       - q_and_a.qmd
+  google-analytics: "G-VQHR7ETRKE"
 
 format:
   html:
