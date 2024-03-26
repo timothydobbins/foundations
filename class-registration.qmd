@@ -59,7 +59,7 @@ If you would like to attend tutorials online (either live or watching recordings
 
 ## Software troubleshooting sessions
 
-This course offers three **optional** software troubleshooting sessions in Weeks 1, 2 and 4. Each session will be held in person in the Wallace Wurth building (Room G06), with an option to book an online appointment. The troubleshooting sessions will not be recorded.
+This course offers three **optional** software troubleshooting sessions in Weeks 1, 2 and 4 (denoted LAB on the timetable). Each session will be held in person in the Wallace Wurth building (Room G06), with an option to book an online appointment. The troubleshooting sessions will not be recorded.
 
 If you would like to attend these sessions in person, you should register for:
 
@@ -79,7 +79,7 @@ Note that registering for either in-person or online troubleshooting sessions do
 
 +--------------------+------------+-------------+-------------+--------------------------+
 | Mode of attendance | Software   | Lecture     | Tutorial    | Software troubleshooting |
-+====================+============+=============+=============+==========================+
++====================+============+:===========:+:===========:+:========================:+
 | In-person          | R          | 10288 LEC A | 10290 TUT C | 10293 LAB 1              |
 |                    |            |             |             |                          |
 |                    | Stata      | 10288 LEC A | 10291 TUT D | 10293 LAB 1              |
@@ -97,7 +97,7 @@ Note that registering for either in-person or online troubleshooting sessions do
 
 +--------------------+------------+-------------+-------------+--------------------------+
 | Mode of attendance | Software   | Lecture     | Tutorial    | Software troubleshooting |
-+====================+============+=============+=============+==========================+
++====================+============+:===========:+:===========:+:========================:+
 | In-person          | R          | 10295 LEC A | 10297 TUT C | 10300 LAB 1              |
 |                    |            |             |             |                          |
 |                    | Stata      | 10295 LEC A | 10298 TUT D | 10300 LAB 1              |
@@ -113,4 +113,4 @@ Note that registering for either in-person or online troubleshooting sessions do
 
 ## More information
 
-More information about this course can be found [here](https://timothydobbins.github.io/foundations/).
+More information about this course can be found [here](https://timothydobbins.github.io/foundations/). If you have any questions, please email me at [t.dobbins\@unsw.edu.au](mailto:t.dobbins@unsw.edu.au).
