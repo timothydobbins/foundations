@@ -1,0 +1,74 @@
+---
+title: "PHCM9795 Foundations of Biostatistics"
+---
+
+# Class registration
+
+Welcome to Foundations of Biostatistics. This page summarises the different class registration options for this course.
+
+## Lectures
+
+All lectures are delivered in hybrid mode, which means you can choose to:
+
+-   attend lectures in-person in [Colombo Lecture Theatre C](https://www.learningenvironments.unsw.edu.au/physical-spaces/colombo-building/k-b16-lg05-colombo-theatre-c);
+-   watch lectures live online (via Microsoft Teams), or;
+-   watch recordings of the lectures.
+
+If you would like to attend lectures in-person, you should register for:
+
+-   10288 (LEC A - In person) if you are a post-graduate student, or;
+-   10295 (LEC A - In person) if you are an undergraduate student.
+
+If you would like to watch lectures online (either live or recorded), you should register for:
+
+-   10289 (LEC B - Online) if you are a post-graduate student, or;
+-   10296 (LEC B - Online) if you are an undergraduate student.
+
+## Tutorials
+
+Tutorials are delivered in-person and online. There are no attendance requirements for tutorials, and you can choose to attend online tutorials live or watch recordings in your own time.
+
+Tutorials are separated depending on which software package you choose to use. More information about the software used in this course can be found [here](https://timothydobbins.github.io/foundations/software.html).
+
+### Students intending to use R for this course
+
+If you would like to attend tutorials in-person, and you intend using R for this course, you should register for:
+
+-   10290 (TUT C - In person) if you are a post-graduate student, or;
+-   10297 (TUT C - In person) if you are an undergraduate student.
+
+If you would like to attend tutorials online (either live or watching recordings), you should register for:
+
+-   10292 (TUT E - Online) if you are a post-graduate student, or;
+-   10299 (TUT E - Online) if you are an undergraduate student.
+
+### Students intending to use Stata for this course
+
+If you would like to attend tutorials in-person, and you intend using Stata for this course, you should register for:
+
+-   10291 (TUT C - In person) if you are a post-graduate student, or;
+-   10298 (TUT C - In person) if you are an undergraduate student.
+
+If you would like to attend tutorials online (either live or watching recordings), you should register for:
+
+-   10292 (TUT E - Online) if you are a post-graduate student, or;
+-   10299 (TUT E - Online) if you are an undergraduate student.
+
+
+## Software troubleshooting sessions
+
+This course offers three **optional** software troubleshooting sessions in Weeks 1, 2 and 4. Each session will be held in person in the Wallace Wurth building (Room G06). If you would like to attend these sessions in person, you should register for:
+
+-   10293 (LAB 1 - In person) if you are a post-graduate student, or;
+-   10300 (LAB 1 - In person) if you are an undergraduate student.
+
+We will also offer online troubleshooting appointments, which will be scheduled for the same time as the in-person sessions. If you would like to attend the software troubleshooting sessions online, you should register for:
+
+-   10294 (LAB 2 - Online) if you are a post-graduate student, or;
+-   10301 (LAB 2 - Online) if you are an undergraduate student.
+
+Note that registering for either in-person or online troubleshooting sessions does not compel you to attend these optional sessions.
+
+## More information
+
+More information about this course can be found [here](https://timothydobbins.github.io/foundations/).
