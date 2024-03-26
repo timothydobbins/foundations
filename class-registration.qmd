@@ -46,8 +46,8 @@ If you would like to attend tutorials online (either live or watching recordings
 
 If you would like to attend tutorials in-person, and you intend using Stata for this course, you should register for:
 
--   10291 (TUT C - In person) if you are a post-graduate student, or;
--   10298 (TUT C - In person) if you are an undergraduate student.
+-   10291 (TUT D - In person) if you are a post-graduate student, or;
+-   10298 (TUT D - In person) if you are an undergraduate student.
 
 If you would like to attend tutorials online (either live or watching recordings), you should register for:
 
