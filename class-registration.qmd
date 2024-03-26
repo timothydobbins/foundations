@@ -4,14 +4,17 @@ title: "PHCM9795 Foundations of Biostatistics"
 
 # Class registration
 
-Welcome to Foundations of Biostatistics. This page summarises the different class registration options for this course.
+Welcome to Foundations of Biostatistics. This page summarises the different class registration options for this course. There are two main decisions you need to make:
+
+1.  How you will attend lectures and tutorials
+2.  What software you will use to learn biostatistics
 
 ## Lectures
 
 All lectures are delivered in hybrid mode, which means you can choose to:
 
 -   attend lectures in-person in [Colombo Lecture Theatre C](https://www.learningenvironments.unsw.edu.au/physical-spaces/colombo-building/k-b16-lg05-colombo-theatre-c);
--   watch lectures live online (via Microsoft Teams), or;
+-   join lectures live online (via Microsoft Teams), or;
 -   watch recordings of the lectures.
 
 If you would like to attend lectures in-person, you should register for:
@@ -54,10 +57,11 @@ If you would like to attend tutorials online (either live or watching recordings
 -   10292 (TUT E - Online) if you are a post-graduate student, or;
 -   10299 (TUT E - Online) if you are an undergraduate student.
 
-
 ## Software troubleshooting sessions
 
-This course offers three **optional** software troubleshooting sessions in Weeks 1, 2 and 4. Each session will be held in person in the Wallace Wurth building (Room G06). If you would like to attend these sessions in person, you should register for:
+This course offers three **optional** software troubleshooting sessions in Weeks 1, 2 and 4. Each session will be held in person in the Wallace Wurth building (Room G06), with an option to book an online appointment. The troubleshooting sessions will not be recorded.
+
+If you would like to attend these sessions in person, you should register for:
 
 -   10293 (LAB 1 - In person) if you are a post-graduate student, or;
 -   10300 (LAB 1 - In person) if you are an undergraduate student.
@@ -68,6 +72,44 @@ We will also offer online troubleshooting appointments, which will be scheduled 
 -   10301 (LAB 2 - Online) if you are an undergraduate student.
 
 Note that registering for either in-person or online troubleshooting sessions does not compel you to attend these optional sessions.
+
+## Summary
+
+Postgraduate student class choices are summarised below:
+
++--------------------+------------+-------------+-------------+--------------------------+
+| Mode of attendance | Software   | Lecture     | Tutorial    | Software troubleshooting |
++====================+============+=============+=============+==========================+
+| In-person          | R          | 10288 LEC A | 10290 TUT C | 10293 LAB 1              |
+|                    |            |             |             |                          |
+|                    | Stata      | 10288 LEC A | 10291 TUT D | 10293 LAB 1              |
++--------------------+------------+-------------+-------------+--------------------------+
+| Live online        | R          | 10289 LEC B | 10292 TUT E | 10294 LAB 2              |
+|                    |            |             |             |                          |
+|                    | Stata      | 10289 LEC B | 10292 TUT E | 10294 LAB 2              |
++--------------------+------------+-------------+-------------+--------------------------+
+| Online recorded    | R          | 10289 LEC B | 10292 TUT E | 10294 LAB 2              |
+|                    |            |             |             |                          |
+|                    | Stata      | 10289 LEC B | 10292 TUT E | 10294 LAB 2              |
++--------------------+------------+-------------+-------------+--------------------------+
+
+Undergraduate student class choices are summarised below:
+
++--------------------+------------+-------------+-------------+--------------------------+
+| Mode of attendance | Software   | Lecture     | Tutorial    | Software troubleshooting |
++====================+============+=============+=============+==========================+
+| In-person          | R          | 10295 LEC A | 10297 TUT C | 10300 LAB 1              |
+|                    |            |             |             |                          |
+|                    | Stata      | 10295 LEC A | 10298 TUT D | 10300 LAB 1              |
++--------------------+------------+-------------+-------------+--------------------------+
+| Live online        | R          | 10296 LEC B | 10299 TUT E | 10301 LAB 2              |
+|                    |            |             |             |                          |
+|                    | Stata      | 10296 LEC B | 10299 TUT E | 10301 LAB 2              |
++--------------------+------------+-------------+-------------+--------------------------+
+| Online recorded    | R          | 10296 LEC B | 10299 TUT E | 10301 LAB 2              |
+|                    |            |             |             |                          |
+|                    | Stata      | 10296 LEC B | 10299 TUT E | 10301 LAB 2              |
++--------------------+------------+-------------+-------------+--------------------------+
 
 ## More information
 
