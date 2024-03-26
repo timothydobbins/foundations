@@ -40,7 +40,7 @@ If you would like to attend tutorials in-person, and you intend using R for this
 -   10290 (TUT C - In person) if you are a post-graduate student, or;
 -   10297 (TUT C - In person) if you are an undergraduate student.
 
-If you would like to attend tutorials online (either live or watching recordings), you should register for:
+If you would like to join tutorials online (either live or watching recordings), you should register for:
 
 -   10292 (TUT E - Online) if you are a post-graduate student, or;
 -   10299 (TUT E - Online) if you are an undergraduate student.
@@ -52,7 +52,7 @@ If you would like to attend tutorials in-person, and you intend using Stata for 
 -   10291 (TUT D - In person) if you are a post-graduate student, or;
 -   10298 (TUT D - In person) if you are an undergraduate student.
 
-If you would like to attend tutorials online (either live or watching recordings), you should register for:
+If you would like to join tutorials online (either live or watching recordings), you should register for:
 
 -   10292 (TUT E - Online) if you are a post-graduate student, or;
 -   10299 (TUT E - Online) if you are an undergraduate student.
@@ -66,7 +66,7 @@ If you would like to attend these sessions in person, you should register for:
 -   10293 (LAB 1 - In person) if you are a post-graduate student, or;
 -   10300 (LAB 1 - In person) if you are an undergraduate student.
 
-We will also offer online troubleshooting appointments, which will be scheduled for the same time as the in-person sessions. If you would like to attend the software troubleshooting sessions online, you should register for:
+We will also offer online troubleshooting appointments, which will be scheduled for the same time as the in-person sessions. If you would like to join the software troubleshooting sessions online, you should register for:
 
 -   10294 (LAB 2 - Online) if you are a post-graduate student, or;
 -   10301 (LAB 2 - Online) if you are an undergraduate student.
