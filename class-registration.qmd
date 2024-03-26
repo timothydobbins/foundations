@@ -75,7 +75,7 @@ Note that registering for either in-person or online troubleshooting sessions do
 
 ## Summary
 
-Postgraduate student class choices are summarised below:
+**Postgraduate** classes:
 
 +--------------------+------------+-------------+-------------+--------------------------+
 | Mode of attendance | Software   | Lecture     | Tutorial    | Software troubleshooting |
@@ -93,7 +93,7 @@ Postgraduate student class choices are summarised below:
 |                    | Stata      | 10289 LEC B | 10292 TUT E | 10294 LAB 2              |
 +--------------------+------------+-------------+-------------+--------------------------+
 
-Undergraduate student class choices are summarised below:
+**Undergraduate** classes:
 
 +--------------------+------------+-------------+-------------+--------------------------+
 | Mode of attendance | Software   | Lecture     | Tutorial    | Software troubleshooting |
