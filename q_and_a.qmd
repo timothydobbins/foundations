@@ -59,12 +59,21 @@ Foundations of Biostatistics comprises four hours of formal teaching per week: l
 There are four quizzes (each worth 5%) to help students keep up with the material as it is presented through the course. There are also two assignments, each worth 40% of the course. The dates for these assessments will be released when the course outline is published.
 :::
 
-## Statistical software and other resources
+<!-- ## Statistical software and other resources -->
+## Learning resources
+
+<!-- ::: {.callout-note collapse="true"} -->
+<!-- ## What software is taught in the course? -->
+
+<!-- Students can choose to learn either Stata or R, and plenty of instructions are provided. More information about statistical software is provided [here](software.qmd). -->
+<!-- ::: -->
 
 ::: {.callout-note collapse="true"}
-## What software is taught in the course?
+## Do I need to buy a calculator?
 
-Students can choose to learn either Stata or R, and plenty of instructions are provided. More information about statistical software is provided [here](software.qmd).
+No, you do not need to buy a calculator.
+
+All work will be performed using statistical software, and plenty of instructions will be provided.
 :::
 
 ::: {.callout-note collapse="true"}
