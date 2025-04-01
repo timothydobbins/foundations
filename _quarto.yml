@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - software.qmd
-      # - schedule.qmd
+      - software.qmd
+      - schedule.qmd
       - q_and_a.qmd
   google-analytics: "G-VQHR7ETRKE"
 

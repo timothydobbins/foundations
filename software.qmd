@@ -2,27 +2,25 @@
 title: "Statistical software"
 ---
 
-In this course, you can choose to learn one of two packages: [Stata](https://www.stata.com/) or [R](https://www.r-project.org/).
+In this course, you can choose to learn one of two packages: [jamovi](https://www.jamovi.org/) or [R](https://www.r-project.org/).
 
-Stata is an excellent statistics package which is relatively easy to learn, and covers virtually all the methods a researcher in population health would need. You can access Stata remotely via <https://www.myaccess.unsw.edu.au/> . Please note that there is a 40-user limit on accessing Stata remotely.
+jamovi is a relatively new package, that has been designed to be easy to use. It is a free, open-source package, that is built on top of the R programming language. jamovi is based around a spreadsheet, and has an intuitive point-and-click interface. jamovi is available to download for Windows, macOS and linux at [https://www.jamovi.org/download.html](https://www.jamovi.org/download.html). We recommend using "jamovi 2.6.26 solid" where possible.
 
-If you are not able to access Stata, or if you find myAccess inconvenient, you can purchase your own license. We use Stata/BE Version 18 for this course. Stata/BE is the Basic Edition of Stata and is more than enough to carry out all the tasks in an introductory level as well as advanced level biostatistics course. You can buy a 6-month license for AUD\$82 or a one-year license for AUD\$160 from <https://www.stata-au.com/> (Note that prices are correct as of December 2023).
-
-R is becoming a popular choice for biostatistics due to its flexibility and its power. Additionally, as R is an open-source project, it is available at no cost. While R has a cost advantage, it does have a reputation of being difficult to learn.
+R is a programming language, which is a popular choice for biostatistics due to its flexibility and its power. Additionally, as R is an open-source project, it is available at no cost. While R has a cost advantage, it does have a reputation of being difficult to learn.
 
 If you choose to use R, we recommend running R via a package called [RStudio](https://posit.co/download/rstudio-desktop/). Both R and RStudio are available for Windows and Mac (and Linux!) machines, and are available at no cost. Installation instructions will be provided in the course materials.
 
 ### Summary
 
-I recommend learning Stata if:
+You should learn jamovi if:
 
-- you are happy using point-and-click commands, and
+- you prefer using point-and-click commands, and
 - you don't want to learn to code.
 
-I recommend learning R if:
+You should learn R if:
 
 - you are interested in learning to code (with lots of helpful instruction!);
 - you are interested in data science;
 - you are comfortable with file paths, and don't mind a bit of debugging.
 
-Ultimately, if in doubt, I'd lean towards learning Stata.
+Ultimately, if in doubt, I'd lean towards learning jamovi.
