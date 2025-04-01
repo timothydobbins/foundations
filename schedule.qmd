@@ -2,16 +2,50 @@
 title: "Course schedule"
 ---
 
-| Week    | Lecture                        | In-person jamovi Tutorial      | In-person R Tutorial          | Online jamovi Tutorial; Online R Tutorial | Optional Software Workshop |
-|---------|--------------------------------|--------------------------------|-------------------------------|-------------------------------------------|----------------------------|
-| Week 0  | Introductory video             |                                |                               |                                           | Introductory video         |
-| Week 1  | Lecture 1; Tue 3/6, 11am-1pm   | Tutorial 1; Thu 5/6, 12pm-2pm  | Tutorial 1; Thu 5/6, 4pm-6pm  |  Tutorial 1; Thu 5/6, 6pm-8pm             | Fri 6/6, 9am-11am          |
-| Week 2  | Lecture 2; Tue 10/6, 11am-1pm  | Tutorial 2; Thu 12/6, 12pm-2pm | Tutorial 2; Thu 12/6, 4pm-6pm |  Tutorial 2; Thu 12/6, 6pm-8pm            | Fri 13/6, 9am-11am         |
-| Week 3  | Lecture 3; Tue 17/6, 11am-1pm  | Tutorial 3; Thu 19/6, 12pm-2pm | Tutorial 3; Thu 19/6, 4pm-6pm |  Tutorial 3; Thu 19/6, 6pm-8pm            | Fri 20/6, 9am-11am         |
-| Week 4  | Lecture 4; Tue 24/6, 11am-1pm  | Tutorial 4; Thu 26/6, 12pm-2pm | Tutorial 4; Thu 26/6, 4pm-6pm |  Tutorial 4; Thu 26/6, 6pm-8pm            | Fri 27/6, 9am-11am         |
-| Week 5  | Lecture 5; Tue 1/7, 11am-1pm   | Tutorial 5; Thu 3/7, 12pm-2pm  | Tutorial 5; Thu 3/7, 4pm-6pm  |  Tutorial 5; Thu 3/7, 6pm-8pm             | Fri 4/7, 9am-11am          |
-| Week 6  | Lecture 6; Tue 1/7, 11am-1pm   | Tutorial 6; Thu 3/7, 12pm-2pm  | Tutorial 6; Thu 3/7, 4pm-6pm  |  Tutorial 6; Thu 3/7, 6pm-8pm             |                            |
-| Week 7  | Lecture 7; Tue 1/7, 11am-1pm   | Tutorial 6; Thu 3/7, 12pm-2pm  | Tutorial 7; Thu 3/7, 4pm-6pm  |  Tutorial 7; Thu 3/7, 6pm-8pm             |                            |
-| Week 8  | Lecture 8; Tue 1/7, 11am-1pm   | Tutorial 7; Thu 3/7, 12pm-2pm  | Tutorial 8; Thu 3/7, 4pm-6pm  |  Tutorial 8; Thu 3/7, 6pm-8pm             |                            |
-| Week 9  | Lecture 9; Tue 1/7, 11am-1pm   | Tutorial 8; Thu 3/7, 12pm-2pm  | Tutorial 9; Thu 3/7, 4pm-6pm  |  Tutorial 9; Thu 3/7, 6pm-8pm             |                            |
-| Week 10 | Lecture 10; Tue 1/7, 11am-1pm  | Tutorial 10; Thu 3/7, 12pm-2pm | Tutorial 10; Thu 3/7, 4pm-6pm |  Tutorial 10; Thu 3/7, 6pm-8pm            |                            |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week    | Lecture            | In-person jamovi Tutorial | In-person R Tutorial | Online Tutorials\    | Optional Software Workshop |
+|         |                    |                           |                      | jamovi and R         |                            |
++=========+====================+===========================+======================+======================+============================+
+| Week 0  | Introductory video |                           |                      |                      | Introductory video         |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 1  | Lecture 1\         | Tutorial 1\               | Tutorial 1\          | Tutorial 1\          | \                          |
+|         | Tue 3/6\           | Thu 5/6\                  | Thu 5/6\             | Thu 5/6\             | Fri 6/6\                   |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              | 9am-11am                   |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 2  | Lecture 2\         | Tutorial 2\               | Tutorial 2\          | Tutorial 2\          | \                          |
+|         | Tue 10/6\          | Thu 12/6\                 | Thu 12/6\            | Thu 12/6\            | Fri 13/6\                  |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              | 9am-11am                   |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 3  | Lecture 3\         | Tutorial 3\               | Tutorial 3\          | Tutorial 3\          | \                          |
+|         | Tue 17/6\          | Thu 19/6\                 | Thu 19/6\            | Thu 19/6\            | Fri 20/6\                  |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              | 9am-11am                   |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 4  | Lecture 4\         | Tutorial 4\               | Tutorial 4\          | Tutorial 4\          | \                          |
+|         | Tue 24/6\          | Thu 26/6\                 | Thu 26/6\            | Thu 26/6\            | Fri 27/6\                  |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              | 9am-11am                   |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 5  | Lecture 5\         | Tutorial 5\               | Tutorial 5\          | Tutorial 5\          | \                          |
+|         | Tue 1/7\           | Thu 3/7\                  | Thu 3/7\             | Thu 3/7\             | Fri 4/7\                   |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              | 9am-11am                   |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 6  | Lecture 6\         | Tutorial 6\               | Tutorial 6\          | Tutorial 6\          |                            |
+|         | Tue 8/7\           | Thu 10/7\                 | Thu 10/7\            | Thu 10/7\            |                            |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              |                            |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 7  | Lecture 7\         | Tutorial 7\               | Tutorial 7\          | Tutorial 7\          |                            |
+|         | Tue 15/7\          | Thu 17/7\                 | Thu 17/7\            | Thu 17/7\            |                            |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              |                            |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 8  | Lecture 8\         | Tutorial 8\               | Tutorial 8\          | Tutorial 8\          |                            |
+|         | Tue 22/7\          | Thu 24/7\                 | Thu 24/7\            | Thu 24/7\            |                            |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              |                            |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 9  | Lecture 9\         | Tutorial 9\               | Tutorial 9\          | Tutorial 9\          |                            |
+|         | Tue 29/7\          | Thu 31/7\                 | Thu 31/7\            | Thu 31/7\            |                            |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              |                            |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+| Week 10 | Lecture 10\        | Tutorial 10\              | Tutorial 10\         | Tutorial 10\         |                            |
+|         | Tue 5/8\           | Thu 7/8\                  | Thu 7/8\             | Thu 7/8\             |                            |
+|         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              |                            |
++---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
+   
