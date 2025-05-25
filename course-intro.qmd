@@ -8,6 +8,11 @@ My "short" introduction to the course video ended up being 30 minutes long. I us
 
 [^1]: Google (2025). NotebookLM (May 25 version) [Large language model]. https://notebooklm.google.com
 
+## Staff
+
+- Tim (Course Convenor): Applied biostatistician with experience in applied research, big data, data visualization, drug and alcohol research, and cancer epidemiology. Loves teaching biostatistics and helping students understand its power.
+- Katrina Blazek: Lecturer in Health Data Science. Joined the school in July 2021 from the NSW Health Biostatistics Training Program. Interests include teaching and learning statistics, kidney disease, missing data, and lab work (macrophages and neutrophils).
+
 ## Course Aim and Philosophy
 
 The primary aim of this course is to equip students with the ability to "tell a story with data." While theoretical foundations will be covered, the emphasis is firmly on understanding how to communicate ideas clearly and concisely using data. The course is designed to be applied, focusing on practical implications rather than extensive formulas, making it accessible to non-statisticians.
@@ -63,7 +68,7 @@ R: Very well-known, powerful, and flexible.
 
 > Both software packages are free. If in doubt, leaning towards jamovi is recommended for ease of use.
 
-## Assessments:
+## Assessments
 
 There are three types of assessment:
 
@@ -72,13 +77,13 @@ There are three types of assessment:
 - Academic Integrity: All submitted work must be the student's own. Evidence of collusion will be referred to the student conduct and integrity office and may result in a zero grade.
 - Group feedback and some written comments will be provided on assessments. Ideal answers will be posted as soon as possible after release. Assessments will be returned within two weeks.
 
-## Use of Generative AI:
+## Use of Generative AI
 
 Assistance from generative AI is allowed with proper attribution. However, students are cautioned about the potential for AI to provide incorrect information with high confidence and should use it carefully.
 
 > If generative AI is used, it **must** be attributed using appropriate referencing.
 
-## Tips for Thriving in the Course:
+## Tips for Thriving in the Course
 
 - Manage Workload: Work consistently over the 10 weeks. Dedicate approximately 15 hours per week to the course.
 - Discuss Content: Form study groups and discuss course content, tutorials, and learning activities with peers. (Note: Do not discuss assessments).
@@ -90,12 +95,7 @@ Assistance from generative AI is allowed with proper attribution. However, stude
 - Choose and Install Software: Decide whether to use jamovi or R and download/install it early, attempting the introductory exercises.
 - Attend Software Clinics (Optional): Utilise the Friday morning clinics if experiencing software issues.
 
-## Staff:
-
-- Tim (Course Convenor): Applied biostatistician with experience in applied research, big data, data visualization, drug and alcohol research, and cancer epidemiology. Loves teaching biostatistics and helping students understand its power.
-- Katrina Blazek: Lecturer in Health Data Science. Joined the school in July 2021 from the NSW Health Biostatistics Training Program. Interests include teaching and learning statistics, kidney disease, missing data, and lab work (macrophages and neutrophils).
-
-## Course Adjustments Based on Feedback:
+## Course Adjustments Based on Feedback
 
 Based on previous student feedback, the following changes have been made:
 - Lecture time moved from 6:00 PM - 8:00 PM to 11:00 AM - 1:00 PM.
@@ -103,7 +103,7 @@ Based on previous student feedback, the following changes have been made:
 - Stata software has been replaced with jamovi due to past loading issues and licence costs.
 - Modules 1-4 have been revised to reduce the initial content load and incorporate more software learning in the first week to create a gentler introduction.
 
-## Getting Started:
+## Getting Started
 
 Students are advised to:
 - Check the course outline and add assessment dates to their diary.
