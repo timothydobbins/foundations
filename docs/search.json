@@ -7,11 +7,46 @@
     "text": "Week\nLecture\nIn-person jamovi Tutorial\nIn-person R Tutorial\nOnline Tutorials\njamovi and R\nOptional Software Workshop\n\n\n\n\nWeek 0\nIntroductory video\n\n\n\nIntroductory video\n\n\nWeek 1\nLecture 1\nTue 3/6\n11am-1pm\nTutorial 1\nThu 5/6\n12pm-2pm\nTutorial 1\nThu 5/6\n4pm-6pm\nTutorial 1\nThu 5/6\n6pm-8pm\n\nFri 6/6\n9am-11am\n\n\nWeek 2\nLecture 2\nTue 10/6\n11am-1pm\nTutorial 2\nThu 12/6\n12pm-2pm\nTutorial 2\nThu 12/6\n4pm-6pm\nTutorial 2\nThu 12/6\n6pm-8pm\n\nFri 13/6\n9am-11am\n\n\nWeek 3\nLecture 3\nTue 17/6\n11am-1pm\nTutorial 3\nThu 19/6\n12pm-2pm\nTutorial 3\nThu 19/6\n4pm-6pm\nTutorial 3\nThu 19/6\n6pm-8pm\n\nFri 20/6\n9am-11am\n\n\nWeek 4\nLecture 4\nTue 24/6\n11am-1pm\nTutorial 4\nThu 26/6\n12pm-2pm\nTutorial 4\nThu 26/6\n4pm-6pm\nTutorial 4\nThu 26/6\n6pm-8pm\n\nFri 27/6\n9am-11am\n\n\nWeek 5\nLecture 5\nTue 1/7\n11am-1pm\nTutorial 5\nThu 3/7\n12pm-2pm\nTutorial 5\nThu 3/7\n4pm-6pm\nTutorial 5\nThu 3/7\n6pm-8pm\n\nFri 4/7\n9am-11am\n\n\nWeek 6\nLecture 6\nTue 8/7\n11am-1pm\nTutorial 6\nThu 10/7\n12pm-2pm\nTutorial 6\nThu 10/7\n4pm-6pm\nTutorial 6\nThu 10/7\n6pm-8pm\n\n\n\nWeek 7\nLecture 7\nTue 15/7\n11am-1pm\nTutorial 7\nThu 17/7\n12pm-2pm\nTutorial 7\nThu 17/7\n4pm-6pm\nTutorial 7\nThu 17/7\n6pm-8pm\n\n\n\nWeek 8\nLecture 8\nTue 22/7\n11am-1pm\nTutorial 8\nThu 24/7\n12pm-2pm\nTutorial 8\nThu 24/7\n4pm-6pm\nTutorial 8\nThu 24/7\n6pm-8pm\n\n\n\nWeek 9\nLecture 9\nTue 29/7\n11am-1pm\nTutorial 9\nThu 31/7\n12pm-2pm\nTutorial 9\nThu 31/7\n4pm-6pm\nTutorial 9\nThu 31/7\n6pm-8pm\n\n\n\nWeek 10\nLecture 10\nTue 5/8\n11am-1pm\nTutorial 10\nThu 7/8\n12pm-2pm\nTutorial 10\nThu 7/8\n4pm-6pm\nTutorial 10\nThu 7/8\n6pm-8pm"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Foundations of Biostatistics",
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Statistical software",
     "section": "",
-    "text": "This website provides information about PHCM9795: Foundations of Biostatistics.\n\nWelcome\nWelcome to PHCM9795 Foundations of Biostatistics.\nThis is an introductory course in biostatistics which will teach you core skills to analyse and present quantitative data from different study types. These fundamental skills will help you in your studies and throughout your career.\n\n\nCourse information\nHow can we use data to tell a story?\n\nHow can we show whether COVID-19 cases are increasing over time?\nHow can we estimate the smoking rate in Australia?\nHow can we assess whether a new treatment reduces pain in patients with arthritis?\n\nWelcome to Foundations of Biostatistics. In this course, we will introduce you to fundamental data visualisation skills to create meaningful and appealing graphical summaries of your data. We will explore which numeric summaries are best to describe your data, discuss why there is variability in these summaries and how to represent this variability. We will show how to test hypotheses to answer real-world research questions. Finally, we will explore how many participants should be enrolled to provide robust conclusions when designing a study.\nThe core course can be studied in an online or in-person mode (or a mixture of both), and teaches you to how to obtain and interpret biostatistical output using software, while minimising mathematical formulae.\nWe invite you to learn how to tell a story using data."
+    "text": "In this course, you can choose to learn one of two packages: jamovi or R.\njamovi is a relatively new package, that has been designed to be easy to use. It is a free, open-source package, that is built on top of the R programming language. jamovi is based around a spreadsheet, and has an intuitive point-and-click interface. jamovi is available to download for Windows, macOS and linux at https://www.jamovi.org/download.html. We recommend using “jamovi 2.6.26 solid” where possible.\nR is a programming language, which is a popular choice for biostatistics due to its flexibility and its power. Additionally, as R is an open-source project, it is available at no cost. While R has a cost advantage, it does have a reputation of being difficult to learn.\nIf you choose to use R, we recommend running R via a package called RStudio. Both R and RStudio are available for Windows and Mac (and Linux!) machines, and are available at no cost. Installation instructions will be provided in the course materials.\n\nSummary\nYou should learn jamovi if:\n\nyou prefer using point-and-click commands, and\nyou don’t want to learn to code.\n\nYou should learn R if:\n\nyou are interested in learning to code (with lots of helpful instruction!);\nyou are interested in data science;\nyou are comfortable with file paths, and don’t mind a bit of debugging.\n\nUltimately, if in doubt, I’d lean towards learning jamovi."
+  },
+  {
+    "objectID": "q_and_a.html",
+    "href": "q_and_a.html",
+    "title": "Q&A",
+    "section": "",
+    "text": "How is this course taught: in-person or online?\n\n\n\n\n\nFoundations of Biostatistics is taught using both in-person and online modes. Lectures are delivered in-person, and are also live-streamed and recorded. We have both in-person and online tutorials, and the online tutorials are recorded.\n\n\n\n\n\n\n\n\n\nAre there any attendance requirements?\n\n\n\n\n\nThere are no attendance requirements. Many students don’t come to campus, and the course is designed to be accessible by all students regardless of where they live.\n\n\n\n\n\n\n\n\n\nI can only study one course this term. Should I study Foundations of Biostatistics or Foundations of Epidemiology?\n\n\n\n\n\nThere is no right answer to this question - completing either course first would be fine.\nMany students put off studying Foundations of Biostatistics in the (mistaken) belief that it will be too difficult - and then report that they wish they had studied the course earlier. Foundations of Biostatistics is designed to be accessible for all students, regardless of your maths background.\nYour future course choices and your timetable might help you answer this. For example, if you know you want to complete Regression Methods in Biostatistics, then completing Foundations of Biostatistics first would be sensible.\nYou will get a lot out of either course, whatever you decide to complete first."
+  },
+  {
+    "objectID": "q_and_a.html#class-attendance-and-enrolment-questions",
+    "href": "q_and_a.html#class-attendance-and-enrolment-questions",
+    "title": "Q&A",
+    "section": "",
+    "text": "How is this course taught: in-person or online?\n\n\n\n\n\nFoundations of Biostatistics is taught using both in-person and online modes. Lectures are delivered in-person, and are also live-streamed and recorded. We have both in-person and online tutorials, and the online tutorials are recorded.\n\n\n\n\n\n\n\n\n\nAre there any attendance requirements?\n\n\n\n\n\nThere are no attendance requirements. Many students don’t come to campus, and the course is designed to be accessible by all students regardless of where they live.\n\n\n\n\n\n\n\n\n\nI can only study one course this term. Should I study Foundations of Biostatistics or Foundations of Epidemiology?\n\n\n\n\n\nThere is no right answer to this question - completing either course first would be fine.\nMany students put off studying Foundations of Biostatistics in the (mistaken) belief that it will be too difficult - and then report that they wish they had studied the course earlier. Foundations of Biostatistics is designed to be accessible for all students, regardless of your maths background.\nYour future course choices and your timetable might help you answer this. For example, if you know you want to complete Regression Methods in Biostatistics, then completing Foundations of Biostatistics first would be sensible.\nYou will get a lot out of either course, whatever you decide to complete first."
+  },
+  {
+    "objectID": "q_and_a.html#expected-background-knowledge",
+    "href": "q_and_a.html#expected-background-knowledge",
+    "title": "Q&A",
+    "section": "Expected background knowledge",
+    "text": "Expected background knowledge\n\n\n\n\n\n\nAre there any prerequisites or expected background knowledge for this course? For example, does the course require university-level mathematics?\n\n\n\n\n\nThere are no prerequisite maths skills - you certainly don’t need to have studied mathematics or statistics at university. I will touch on some high-school maths, but very infrequently. It’s been a long time since I’ve studies maths, and I’m feeling nervous. Are there any preparatory courses I should study?\nIf it has been a while since you have studied maths, the resources from Unit 1 of the Algebra Basics from the Khan Academy might be useful.\nDon’t worry that it’s got “algebra” in its title, it’s just some basic maths skills that you might not remember so well. And don’t feel like you need to formally enrol, or study every section: just watch some of the videos and read some of the notes for the topics that you might not remember - and maybe take some of the quizzes. I would recommend the section on “Order of Operations”, but you can definitely skip “Area of triangles” and “Circumference and area of circles”."
+  },
+  {
+    "objectID": "q_and_a.html#workload-and-assessment",
+    "href": "q_and_a.html#workload-and-assessment",
+    "title": "Q&A",
+    "section": "Workload and assessment",
+    "text": "Workload and assessment\n\n\n\n\n\n\nWhat is the workload for the course?\n\n\n\n\n\nFoundations of Biostatistics is a 6 unit of credit course. UNSW suggests a workload of 150 hours over the term for a 6 UOC course.\nFoundations of Biostatistics comprises four hours of formal teaching per week: lectures (two hours) and tutorials (two hours).\n\n\n\n\n\n\n\n\n\nWhat assessment tasks are required for the course?\n\n\n\n\n\nThere are four quizzes (each worth 5%) to help students keep up with the material as it is presented through the course. There are also two assignments, each worth 40% of the course. The dates for these assessments will be released when the course outline is published."
+  },
+  {
+    "objectID": "q_and_a.html#learning-resources",
+    "href": "q_and_a.html#learning-resources",
+    "title": "Q&A",
+    "section": "Learning resources",
+    "text": "Learning resources\n\n\n\n\n\n\n\n\n\n\nDo I need to buy a calculator?\n\n\n\n\n\nNo, you do not need to buy a calculator.\nAll work will be performed using statistical software, and plenty of instructions will be provided.\n\n\n\n\n\n\n\n\n\nDo I need to buy a textbook?\n\n\n\n\n\nNo, you do not need to buy a textbook.\nAll the content you need for this course is provided in the course notes. If you want to supplement the content we provide, suggested readings are provided for each module. You can access these readings through the UNSW library, and links are provided in the course notes.\n\n\n\nDo you have a question that is not answered here? Please email me, and I can provide an answer."
   },
   {
     "objectID": "class-registration.html",
@@ -56,45 +91,94 @@
     "text": "More information about this course can be found here. If you have any questions, please email me at t.dobbins@unsw.edu.au."
   },
   {
-    "objectID": "q_and_a.html",
-    "href": "q_and_a.html",
-    "title": "Q&A",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Foundations of Biostatistics",
     "section": "",
-    "text": "How is this course taught: in-person or online?\n\n\n\n\n\nFoundations of Biostatistics is taught using both in-person and online modes. Lectures are delivered in-person, and are also live-streamed and recorded. We have both in-person and online tutorials, and the online tutorials are recorded.\n\n\n\n\n\n\n\n\n\nAre there any attendance requirements?\n\n\n\n\n\nThere are no attendance requirements. Many students don’t come to campus, and the course is designed to be accessible by all students regardless of where they live.\n\n\n\n\n\n\n\n\n\nI can only study one course this term. Should I study Foundations of Biostatistics or Foundations of Epidemiology?\n\n\n\n\n\nThere is no right answer to this question - completing either course first would be fine.\nMany students put off studying Foundations of Biostatistics in the (mistaken) belief that it will be too difficult - and then report that they wish they had studied the course earlier. Foundations of Biostatistics is designed to be accessible for all students, regardless of your maths background.\nYour future course choices and your timetable might help you answer this. For example, if you know you want to complete Regression Methods in Biostatistics, then completing Foundations of Biostatistics first would be sensible.\nYou will get a lot out of either course, whatever you decide to complete first."
+    "text": "This website provides information about PHCM9795: Foundations of Biostatistics.\n\nWelcome\nWelcome to PHCM9795 Foundations of Biostatistics.\nThis is an introductory course in biostatistics which will teach you core skills to analyse and present quantitative data from different study types. These fundamental skills will help you in your studies and throughout your career.\n\n\nCourse information\nHow can we use data to tell a story?\n\nHow can we show whether COVID-19 cases are increasing over time?\nHow can we estimate the smoking rate in Australia?\nHow can we assess whether a new treatment reduces pain in patients with arthritis?\n\nWelcome to Foundations of Biostatistics. In this course, we will introduce you to fundamental data visualisation skills to create meaningful and appealing graphical summaries of your data. We will explore which numeric summaries are best to describe your data, discuss why there is variability in these summaries and how to represent this variability. We will show how to test hypotheses to answer real-world research questions. Finally, we will explore how many participants should be enrolled to provide robust conclusions when designing a study.\nThe core course can be studied in an online or in-person mode (or a mixture of both), and teaches you to how to obtain and interpret biostatistical output using software, while minimising mathematical formulae.\nWe invite you to learn how to tell a story using data."
   },
   {
-    "objectID": "q_and_a.html#class-attendance-and-enrolment-questions",
-    "href": "q_and_a.html#class-attendance-and-enrolment-questions",
-    "title": "Q&A",
+    "objectID": "course-intro.html",
+    "href": "course-intro.html",
+    "title": "Summary of Course Introduction video",
     "section": "",
-    "text": "How is this course taught: in-person or online?\n\n\n\n\n\nFoundations of Biostatistics is taught using both in-person and online modes. Lectures are delivered in-person, and are also live-streamed and recorded. We have both in-person and online tutorials, and the online tutorials are recorded.\n\n\n\n\n\n\n\n\n\nAre there any attendance requirements?\n\n\n\n\n\nThere are no attendance requirements. Many students don’t come to campus, and the course is designed to be accessible by all students regardless of where they live.\n\n\n\n\n\n\n\n\n\nI can only study one course this term. Should I study Foundations of Biostatistics or Foundations of Epidemiology?\n\n\n\n\n\nThere is no right answer to this question - completing either course first would be fine.\nMany students put off studying Foundations of Biostatistics in the (mistaken) belief that it will be too difficult - and then report that they wish they had studied the course earlier. Foundations of Biostatistics is designed to be accessible for all students, regardless of your maths background.\nYour future course choices and your timetable might help you answer this. For example, if you know you want to complete Regression Methods in Biostatistics, then completing Foundations of Biostatistics first would be sensible.\nYou will get a lot out of either course, whatever you decide to complete first."
+    "text": "My “short” introduction to the course video ended up being 30 minutes long. I used Google’s NotebookLM1 to summarise the main points of the video."
   },
   {
-    "objectID": "q_and_a.html#expected-background-knowledge",
-    "href": "q_and_a.html#expected-background-knowledge",
-    "title": "Q&A",
-    "section": "Expected background knowledge",
-    "text": "Expected background knowledge\n\n\n\n\n\n\nAre there any prerequisites or expected background knowledge for this course? For example, does the course require university-level mathematics?\n\n\n\n\n\nThere are no prerequisite maths skills - you certainly don’t need to have studied mathematics or statistics at university. I will touch on some high-school maths, but very infrequently. It’s been a long time since I’ve studies maths, and I’m feeling nervous. Are there any preparatory courses I should study?\nIf it has been a while since you have studied maths, the resources from Unit 1 of the Algebra Basics from the Khan Academy might be useful.\nDon’t worry that it’s got “algebra” in its title, it’s just some basic maths skills that you might not remember so well. And don’t feel like you need to formally enrol, or study every section: just watch some of the videos and read some of the notes for the topics that you might not remember - and maybe take some of the quizzes. I would recommend the section on “Order of Operations”, but you can definitely skip “Area of triangles” and “Circumference and area of circles”."
+    "objectID": "course-intro.html#course-aim-and-philosophy",
+    "href": "course-intro.html#course-aim-and-philosophy",
+    "title": "Summary of Course Introduction video",
+    "section": "Course Aim and Philosophy",
+    "text": "Course Aim and Philosophy\nThe primary aim of this course is to equip students with the ability to “tell a story with data.” While theoretical foundations will be covered, the emphasis is firmly on understanding how to communicate ideas clearly and concisely using data. The course is designed to be applied, focusing on practical implications rather than extensive formulas, making it accessible to non-statisticians.\n\n“I want you to be able to tell a story with data.”"
   },
   {
-    "objectID": "q_and_a.html#workload-and-assessment",
-    "href": "q_and_a.html#workload-and-assessment",
-    "title": "Q&A",
-    "section": "Workload and assessment",
-    "text": "Workload and assessment\n\n\n\n\n\n\nWhat is the workload for the course?\n\n\n\n\n\nFoundations of Biostatistics is a 6 unit of credit course. UNSW suggests a workload of 150 hours over the term for a 6 UOC course.\nFoundations of Biostatistics comprises four hours of formal teaching per week: lectures (two hours) and tutorials (two hours).\n\n\n\n\n\n\n\n\n\nWhat assessment tasks are required for the course?\n\n\n\n\n\nThere are four quizzes (each worth 5%) to help students keep up with the material as it is presented through the course. There are also two assignments, each worth 40% of the course. The dates for these assessments will be released when the course outline is published."
+    "objectID": "course-intro.html#course-structure-and-delivery",
+    "href": "course-intro.html#course-structure-and-delivery",
+    "title": "Summary of Course Introduction video",
+    "section": "Course Structure and Delivery",
+    "text": "Course Structure and Delivery\nThe course runs over 10 weeks, with each week dedicated to a different module. The weekly structure typically involves:\n\nReviewing Course Notes (Optional, before Tuesday): Students are encouraged to briefly review the notes if time permits.\nLecture (Tuesday, 11:00 AM - 1:00 PM): Held in person and simultaneously available live on Microsoft Teams. Recordings are posted on Tuesday afternoon.\nAttempting Learning Activities (After Lecture): Students should attempt the learning activities at the end of each module. Practice is highlighted as the best way to learn.\nTutorial (Thursday): In-person classroom tutorials are available, with the software used (jamovi or R) determining the specific session. Online tutorials are held at the same time on Thursday evenings via Microsoft Teams. Tutorials are recorded.\nReviewing Answers (After Learning Activities): Students should review the sample solutions to understand approaches and compare them to their own work.\nMoodle Discussion Boards (Throughout the Week): Open for questions and discussions on module content, software, and general topics.\n\n\nThere is no formal attendance requirement for any sessions. All online sessions are recorded and made available, allowing for flexible learning."
   },
   {
-    "objectID": "q_and_a.html#learning-resources",
-    "href": "q_and_a.html#learning-resources",
-    "title": "Q&A",
-    "section": "Learning resources",
-    "text": "Learning resources\n\n\n\n\n\n\n\n\n\n\nDo I need to buy a calculator?\n\n\n\n\n\nNo, you do not need to buy a calculator.\nAll work will be performed using statistical software, and plenty of instructions will be provided.\n\n\n\n\n\n\n\n\n\nDo I need to buy a textbook?\n\n\n\n\n\nNo, you do not need to buy a textbook.\nAll the content you need for this course is provided in the course notes. If you want to supplement the content we provide, suggested readings are provided for each module. You can access these readings through the UNSW library, and links are provided in the course notes.\n\n\n\nDo you have a question that is not answered here? Please email me, and I can provide an answer."
+    "objectID": "course-intro.html#course-resources-and-platforms",
+    "href": "course-intro.html#course-resources-and-platforms",
+    "title": "Summary of Course Introduction video",
+    "section": "Course Resources and Platforms",
+    "text": "Course Resources and Platforms\nMoodle: The central hub for the course. Contains announcements, discussion forums, assessments, grade book, course outline, and course schedule. - Course Outline: The “single source of truth” for formal course information. - Course Schedule: Helps students track where they should be each week. - Course Notes: Available in two versions: - Web Version: A hyperlinked document with easy navigation, ideal for working alongside software. - PDF Version: Printable (around 250 pages), also hyperlinked for navigation. - The notes contain worked examples, software instruction, learning activities (without solutions), and textbook references (textbooks are optional and available electronically through the library).\nSharePoint Site (Accessed via Teams Homepage): Stores all recorded session videos and all data sets used in the course (examples and activities). This site will also be linked from Moodle.\nMicrosoft Teams: Used for live online lectures, online tutorials, and booking software clinic appointments. Students must log in using their University of New South Wales zID.\n\nThe course notes are considered sufficient, and purchasing textbooks is not necessary."
   },
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Statistical software",
-    "section": "",
-    "text": "In this course, you can choose to learn one of two packages: jamovi or R.\njamovi is a relatively new package, that has been designed to be easy to use. It is a free, open-source package, that is built on top of the R programming language. jamovi is based around a spreadsheet, and has an intuitive point-and-click interface. jamovi is available to download for Windows, macOS and linux at https://www.jamovi.org/download.html. We recommend using “jamovi 2.6.26 solid” where possible.\nR is a programming language, which is a popular choice for biostatistics due to its flexibility and its power. Additionally, as R is an open-source project, it is available at no cost. While R has a cost advantage, it does have a reputation of being difficult to learn.\nIf you choose to use R, we recommend running R via a package called RStudio. Both R and RStudio are available for Windows and Mac (and Linux!) machines, and are available at no cost. Installation instructions will be provided in the course materials.\n\nSummary\nYou should learn jamovi if:\n\nyou prefer using point-and-click commands, and\nyou don’t want to learn to code.\n\nYou should learn R if:\n\nyou are interested in learning to code (with lots of helpful instruction!);\nyou are interested in data science;\nyou are comfortable with file paths, and don’t mind a bit of debugging.\n\nUltimately, if in doubt, I’d lean towards learning jamovi."
+    "objectID": "course-intro.html#software-options",
+    "href": "course-intro.html#software-options",
+    "title": "Summary of Course Introduction video",
+    "section": "Software Options",
+    "text": "Software Options\nStudents can choose to learn one of two statistical software packages:\njamovi: Relatively new and designed to be easy to use.\n\nPoint-and-click interface with no coding required.\nOpen-source and available at no cost.\nRecommended for students who prefer a visual interface and do not want to write code.\n\nR: Very well-known, powerful, and flexible.\n\nIndustry standard, often requested by employers.\nInterface is via code (writing scripts).\nOpen-source and available at no cost.\nHas a steeper learning curve than jamovi.\nRecommended for students interested in learning code, pursuing data science, and who are comfortable with file paths and debugging.\n\n\nBoth software packages are free. If in doubt, leaning towards jamovi is recommended for ease of use."
+  },
+  {
+    "objectID": "course-intro.html#assessments",
+    "href": "course-intro.html#assessments",
+    "title": "Summary of Course Introduction video",
+    "section": "Assessments:",
+    "text": "Assessments:\nThere are three types of assessment:\n\nQuizzes (4): Each quiz has 5 questions and a 2-hour time limit. They close at 12 midday. A practice quiz will be available beforehand.\nAssignments (2): Longer-form assessments with questions and data sets provided. Submissions are made via Turnitin by the due date.\nAcademic Integrity: All submitted work must be the student’s own. Evidence of collusion will be referred to the student conduct and integrity office and may result in a zero grade.\nGroup feedback and some written comments will be provided on assessments. Ideal answers will be posted as soon as possible after release. Assessments will be returned within two weeks."
+  },
+  {
+    "objectID": "course-intro.html#use-of-generative-ai",
+    "href": "course-intro.html#use-of-generative-ai",
+    "title": "Summary of Course Introduction video",
+    "section": "Use of Generative AI:",
+    "text": "Use of Generative AI:\nAssistance from generative AI is allowed with proper attribution. However, students are cautioned about the potential for AI to provide incorrect information with high confidence and should use it carefully.\n\nIf generative AI is used, it must be attributed using appropriate referencing."
+  },
+  {
+    "objectID": "course-intro.html#tips-for-thriving-in-the-course",
+    "href": "course-intro.html#tips-for-thriving-in-the-course",
+    "title": "Summary of Course Introduction video",
+    "section": "Tips for Thriving in the Course:",
+    "text": "Tips for Thriving in the Course:\n\nManage Workload: Work consistently over the 10 weeks. Dedicate approximately 15 hours per week to the course.\nDiscuss Content: Form study groups and discuss course content, tutorials, and learning activities with peers. (Note: Do not discuss assessments).\nContact Staff Early: Reach out to the convenor (Tim) or post on Moodle as soon as problems arise, as the course builds week by week.\nCheck Key Dates: Be aware of assessment due dates and the university’s census date (for withdrawing without academic or financial penalty).\nRemain Focused and Positive: Past student feedback indicates that apprehension often gives way to enjoyment after the initial weeks.\nEngage on Moodle: Ask questions (anonymously if preferred by contacting Tim) and consider answering other students’ questions to aid communal learning.\nCheck Notes Before Posting: Review the course notes and lecture slides to see if a question has already been answered.\nChoose and Install Software: Decide whether to use jamovi or R and download/install it early, attempting the introductory exercises.\nAttend Software Clinics (Optional): Utilise the Friday morning clinics if experiencing software issues."
+  },
+  {
+    "objectID": "course-intro.html#staff",
+    "href": "course-intro.html#staff",
+    "title": "Summary of Course Introduction video",
+    "section": "Staff:",
+    "text": "Staff:\n\nTim (Course Convenor): Applied biostatistician with experience in applied research, big data, data visualization, drug and alcohol research, and cancer epidemiology. Loves teaching biostatistics and helping students understand its power.\nKatrina Blazek: Lecturer in Health Data Science. Joined the school in July 2021 from the NSW Health Biostatistics Training Program. Interests include teaching and learning statistics, kidney disease, missing data, and lab work (macrophages and neutrophils)."
+  },
+  {
+    "objectID": "course-intro.html#course-adjustments-based-on-feedback",
+    "href": "course-intro.html#course-adjustments-based-on-feedback",
+    "title": "Summary of Course Introduction video",
+    "section": "Course Adjustments Based on Feedback:",
+    "text": "Course Adjustments Based on Feedback:\nBased on previous student feedback, the following changes have been made: - Lecture time moved from 6:00 PM - 8:00 PM to 11:00 AM - 1:00 PM. - Tutorials are now held in the same week as the corresponding lecture (Tuesday lecture, Thursday tutorial). - Stata software has been replaced with jamovi due to past loading issues and licence costs. - Modules 1-4 have been revised to reduce the initial content load and incorporate more software learning in the first week to create a gentler introduction."
+  },
+  {
+    "objectID": "course-intro.html#getting-started",
+    "href": "course-intro.html#getting-started",
+    "title": "Summary of Course Introduction video",
+    "section": "Getting Started:",
+    "text": "Getting Started:\nStudents are advised to: - Check the course outline and add assessment dates to their diary. - Confirm registration for the correct software tutorial class (jamovi or R). - Introduce themselves on the Moodle “Let’s Meet” forum (bonus points for including a picture of a pet or something from their life outside university). - Consider printing a hard copy of the notes if preferred. - Download and install their chosen software and attempt the introductory exercise. - Attend a software clinic or ask online for assistance if needed. - Attend the first lecture (in person, live on Teams, or watch the recording). - Relax and anticipate a challenging but hopefully enjoyable and valuable course."
+  },
+  {
+    "objectID": "course-intro.html#footnotes",
+    "href": "course-intro.html#footnotes",
+    "title": "Summary of Course Introduction video",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nGoogle (2025). NotebookLM (May 25 version) [Large language model]. https://notebooklm.google.com↩︎"
   }
 ]

@@ -1,0 +1,117 @@
+---
+title: "Summary of Course Introduction video"
+---
+
+{{< video https://youtu.be/NCL_6c_KPQQ width="250" height="175" >}}
+
+My "short" introduction to the course video ended up being 30 minutes long. I used Google's NotebookLM[^1] to summarise the main points of the video.
+
+[^1]: Google (2025). NotebookLM (May 25 version) [Large language model]. https://notebooklm.google.com
+
+## Course Aim and Philosophy
+
+The primary aim of this course is to equip students with the ability to "tell a story with data." While theoretical foundations will be covered, the emphasis is firmly on understanding how to communicate ideas clearly and concisely using data. The course is designed to be applied, focusing on practical implications rather than extensive formulas, making it accessible to non-statisticians.
+
+> "I want you to be able to tell a story with data.”
+
+## Course Structure and Delivery
+
+The course runs over 10 weeks, with each week dedicated to a different module. The weekly structure typically involves:
+
+- Reviewing Course Notes (Optional, before Tuesday): Students are encouraged to briefly review the notes if time permits.
+- Lecture (Tuesday, 11:00 AM - 1:00 PM): Held in person and simultaneously available live on Microsoft Teams. Recordings are posted on Tuesday afternoon.
+- Attempting Learning Activities (After Lecture): Students should attempt the learning activities at the end of each module. Practice is highlighted as the best way to learn.
+- Tutorial (Thursday): In-person classroom tutorials are available, with the software used (jamovi or R) determining the specific session. Online tutorials are held at the same time on Thursday evenings via Microsoft Teams. Tutorials are recorded.
+- Reviewing Answers (After Learning Activities): Students should review the sample solutions to understand approaches and compare them to their own work.
+- Moodle Discussion Boards (Throughout the Week): Open for questions and discussions on module content, software, and general topics.
+
+> There is no formal attendance requirement for any sessions. All online sessions are recorded and made available, allowing for flexible learning.
+
+## Course Resources and Platforms
+
+Moodle: The central hub for the course. Contains announcements, discussion forums, assessments, grade book, course outline, and course schedule.
+- Course Outline: The "single source of truth" for formal course information.
+- Course Schedule: Helps students track where they should be each week.
+- Course Notes: Available in two versions:
+  - Web Version: A hyperlinked document with easy navigation, ideal for working alongside software.
+  - PDF Version: Printable (around 250 pages), also hyperlinked for navigation.
+- The notes contain worked examples, software instruction, learning activities (without solutions), and textbook references (textbooks are optional and available electronically through the library).
+
+SharePoint Site (Accessed via Teams Homepage): Stores all recorded session videos and all data sets used in the course (examples and activities). This site will also be linked from Moodle.
+
+Microsoft Teams: Used for live online lectures, online tutorials, and booking software clinic appointments. Students must log in using their University of New South Wales zID.
+
+> The course notes are considered sufficient, and purchasing textbooks is not necessary.
+
+## Software Options
+
+Students can choose to learn one of two statistical software packages:
+
+jamovi: Relatively new and designed to be easy to use.
+
+- Point-and-click interface with no coding required.
+- Open-source and available at no cost.
+- Recommended for students who prefer a visual interface and do not want to write code.
+
+R: Very well-known, powerful, and flexible.
+
+- Industry standard, often requested by employers.
+- Interface is via code (writing scripts).
+- Open-source and available at no cost.
+- Has a steeper learning curve than jamovi.
+- Recommended for students interested in learning code, pursuing data science, and who are comfortable with file paths and debugging.
+
+> Both software packages are free. If in doubt, leaning towards jamovi is recommended for ease of use.
+
+## Assessments:
+
+There are three types of assessment:
+
+- Quizzes (4): Each quiz has 5 questions and a 2-hour time limit. They close at 12 midday. A practice quiz will be available beforehand.
+- Assignments (2): Longer-form assessments with questions and data sets provided. Submissions are made via Turnitin by the due date.
+- Academic Integrity: All submitted work must be the student's own. Evidence of collusion will be referred to the student conduct and integrity office and may result in a zero grade.
+- Group feedback and some written comments will be provided on assessments. Ideal answers will be posted as soon as possible after release. Assessments will be returned within two weeks.
+
+## Use of Generative AI:
+
+Assistance from generative AI is allowed with proper attribution. However, students are cautioned about the potential for AI to provide incorrect information with high confidence and should use it carefully.
+
+> If generative AI is used, it **must** be attributed using appropriate referencing.
+
+## Tips for Thriving in the Course:
+
+- Manage Workload: Work consistently over the 10 weeks. Dedicate approximately 15 hours per week to the course.
+- Discuss Content: Form study groups and discuss course content, tutorials, and learning activities with peers. (Note: Do not discuss assessments).
+- Contact Staff Early: Reach out to the convenor (Tim) or post on Moodle as soon as problems arise, as the course builds week by week.
+- Check Key Dates: Be aware of assessment due dates and the university's census date (for withdrawing without academic or financial penalty).
+- Remain Focused and Positive: Past student feedback indicates that apprehension often gives way to enjoyment after the initial weeks.
+- Engage on Moodle: Ask questions (anonymously if preferred by contacting Tim) and consider answering other students' questions to aid communal learning.
+- Check Notes Before Posting: Review the course notes and lecture slides to see if a question has already been answered.
+- Choose and Install Software: Decide whether to use jamovi or R and download/install it early, attempting the introductory exercises.
+- Attend Software Clinics (Optional): Utilise the Friday morning clinics if experiencing software issues.
+
+## Staff:
+
+- Tim (Course Convenor): Applied biostatistician with experience in applied research, big data, data visualization, drug and alcohol research, and cancer epidemiology. Loves teaching biostatistics and helping students understand its power.
+- Katrina Blazek: Lecturer in Health Data Science. Joined the school in July 2021 from the NSW Health Biostatistics Training Program. Interests include teaching and learning statistics, kidney disease, missing data, and lab work (macrophages and neutrophils).
+
+## Course Adjustments Based on Feedback:
+
+Based on previous student feedback, the following changes have been made:
+- Lecture time moved from 6:00 PM - 8:00 PM to 11:00 AM - 1:00 PM.
+- Tutorials are now held in the same week as the corresponding lecture (Tuesday lecture, Thursday tutorial).
+- Stata software has been replaced with jamovi due to past loading issues and licence costs.
+- Modules 1-4 have been revised to reduce the initial content load and incorporate more software learning in the first week to create a gentler introduction.
+
+## Getting Started:
+
+Students are advised to:
+- Check the course outline and add assessment dates to their diary.
+- Confirm registration for the correct software tutorial class (jamovi or R).
+- Introduce themselves on the Moodle "Let's Meet" forum (bonus points for including a picture of a pet or something from their life outside university).
+- Consider printing a hard copy of the notes if preferred.
+- Download and install their chosen software and attempt the introductory exercise.
+- Attend a software clinic or ask online for assistance if needed.
+- Attend the first lecture (in person, live on Teams, or watch the recording).
+- Relax and anticipate a challenging but hopefully enjoyable and valuable course.
+
