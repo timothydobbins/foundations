@@ -1,0 +1,33 @@
+---
+title: "How to download data: Windows"
+---
+
+1. Open your browser and navigate to the PHCM9795 [Course Sharepoint Site](https://unsw.sharepoint.com/sites/CLS-PHCM9795_T2_5256_Combined/SitePages/Home.aspx):
+
+![](img/download-data-win-01.png)
+
+2. Hover your mouse over the folder you want to download, and click the three dots. Choose **Download** Here I have chosen to download the "Learning activity datasets":
+
+![](img/download-data-win-02.png){width="50%"}
+
+3. Choose the folder in which you want to download the files, and click **Save**. Here, I am choosing a folder called "Foundations of Biostatistics" in my "Documents" folder:
+
+![](img/download-data-win-03.png){width="75%"}
+
+4. Using **Windows Explorer**, navigate to the folder you have saved your data into. You will see a new file, called something like "OneDrive_2025...":
+
+![](img/download-data-win-04.png){width="75%"}
+
+5. Click the file once, and then click **Extract all** at the top of the window:
+
+![](img/download-data-win-05.png){width="75%"}
+
+6. You can specify the location for the files to be extracted. I recommend deleting the "OneDrive_2025..." text. This will extract your files directly into the "Foundations of Biostatistics" folder. Click **Extract**:
+
+![](img/download-data-win-06.png){width="75%"}
+
+7. The downloaded folder of data will appear:
+
+![](img/download-data-win-08.png)
+
+8. You can safely delete the file called "OneDrive_2025...".

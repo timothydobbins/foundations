@@ -11,7 +11,16 @@ website:
       - software.qmd
       - schedule.qmd
       - q_and_a.qmd
+<<<<<<< Updated upstream
       - course-intro.qmd
+=======
+<<<<<<< HEAD
+      - download-mac.qmd
+      - download-win.qmd
+=======
+      - course-intro.qmd
+>>>>>>> 963f0e5e23b107ece815cafb9ad5dc0fac3e86bc
+>>>>>>> Stashed changes
   google-analytics: "G-VQHR7ETRKE"
 
 format:

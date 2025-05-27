@@ -1,0 +1,25 @@
+---
+title: "How to download data: macOS"
+---
+
+1. Open your browser and navigate to the PHCM9795 [Course Sharepoint Site](https://unsw.sharepoint.com/sites/CLS-PHCM9795_T2_5256_Combined/SitePages/Home.aspx):
+
+![](img/download-data-mac-01.png)
+
+2. Hover your mouse over the folder you want to download, and click the three dots. Choose **Download** Here I have chosen to download the "Learning activity datasets":
+
+![](img/download-data-mac-02.png){width="50%"}
+
+3. Choose the folder in which you want to download the files, and click **Save**. Here, I am choosing a folder called "Foundations of Biostatistics" in my "Documents" folder:
+
+![](img/download-data-mac-03.png){width="75%"}
+
+4. Using the **Finder**, navigate to the folder you have saved your data into. You will see a new file, called something like "OneDrive_2025...":
+
+![](img/download-data-mac-04.png){width="75%"}
+
+5. Double-click the file, and the downloaded folder of data will appear:
+
+![](img/download-data-mac-05.png){width="75%"}
+
+6. You can safely delete the file called "OneDrive_2025...".
