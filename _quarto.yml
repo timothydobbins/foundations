@@ -14,6 +14,7 @@ website:
       - course-intro.qmd
       - download-mac.qmd
       - download-win.qmd
+      - download-videos.qmd
   google-analytics: "G-VQHR7ETRKE"
 
 format:

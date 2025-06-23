@@ -1,0 +1,15 @@
+---
+title: "How to download videos"
+---
+
+1. Navigate to the PHCM9795 [Course Sharepoint Site](https://unsw.sharepoint.com/sites/CLS-PHCM9795_T2_5256_Combined/SitePages/Home.aspx):
+
+![](img/download-data-mac-01.png)
+
+2. Click the video you want to download, and it will start playing. While it is playing, click this icon in the bottom-right of the video player:
+
+![](img/download-video-02.png)
+
+3. The video will open in Microsoft Stream. Click the **download** icon at the top of the video, and your video will begin downloading.
+
+![](img/download-video-03.png)
