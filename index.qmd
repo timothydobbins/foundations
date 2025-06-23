@@ -3,8 +3,6 @@ title: "Foundations of Biostatistics"
 subtitle: "Term 2, 2025"
 ---
 
-This website provides information about PHCM9795: Foundations of Biostatistics.
-
 # Welcome
 
 Welcome to PHCM9795 Foundations of Biostatistics.
