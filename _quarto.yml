@@ -4,8 +4,10 @@ project:
 
 website:
   title: "PHCM9795"
-  navbar:
-    left:
+  sidebar:
+    style: "docked"
+    search: false
+    contents:
       - href: index.qmd
         text: Home
       - software.qmd
@@ -19,9 +21,6 @@ website:
 
 format:
   html:
-    theme: flatly
-    css: styles.css
-    toc: true
-
-editor: source
-
+    theme: cosmo
+    highlight-style: monochrome
+    title-block-banner: "#ffdc00"
