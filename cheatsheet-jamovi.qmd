@@ -1,0 +1,97 @@
+---
+title: "jamovi cheat sheet"
+---
+
+This cheat sheet outlines key jamovi commands and navigation steps for statistical analysis, as taught in the PHCM9795 course
+
+## Generative AI statement
+
+This work was developed with the assistance of [NotebookLM](https://notebooklm.google/)
+
+### 1. jamovi Interface & Setup
+
+-   **Download & Install:** Free at [`https://www.jamovi.org/download.html`](https://www.jamovi.org/download.html). Version 2.6.26 solid is recommended. \[Section 1.8\]
+-   **Main Views:** **Spreadsheet view** (accessed via **Data** tab) for data entry and changes; **Analysis view** (accessed via **Analyses** tab) for statistical results. \[Section 1.9\]
+-   **Open/Save/Export:** Click the **three-bar icon** (upper-left corner). \[Section 1.10\]
+    -   **Open Data: 3-bar icon \> Open \> Browse**.
+    -   **Save Work: 3-bar icon \> Save** (`.omv` file format, saves data and output).
+    -   **Export Data: 3-bar icon \> Export** (data in other formats like `txt`, `csv`, `xlsx`, `rds`, `dta`).
+    -   **Export Output: 3-bar icon \> Export** (output as `pdf` or `html`).
+    -   **Copy Output** to Word Processor: **Right-click** on output and choose **Export** (plain text) or **Copy table/Copy table as HTML**.
+-   **Install Modules: Analyses tab \> large + (top-right) \> jamovi library**. Search and **INSTALL** desired module (e.g., `surveymv`, `esci`). \[Sections 2.15 and 3.17\]
+
+### 2. Data Handling & Manipulation
+
+-   **Enter Data:** Type directly into cells in the spreadsheet view. \[Section 1.9\]
+-   **Rename Variables:** Click **Data tab \> click column header \> Setup**, then edit the **Variable name**, **Measure type** (e.g., Nominal, Continuous), and **Levels** (e.g., for categorical data). \[Section 1.9\]
+-   **Create New Variable:** **Data tab \> click empty column \> Setup \> NEW COMPUTED VARIABLE**. Enter variable name and formula in the `fx` box (e.g., `weight / height^2`). \[Section 3.13\]
+-   **Set Value to Missing:** **Click** the cell with the erroneous value and press **Delete** or **Backspace**. Always keep an original, unedited copy of your data. \[Section 1.11\]
+-   **Weight Data** (for Summarised Categorical Data): **Data tab \> Weights**, then define the count variable as the **weight variable**. \[Section 6.7\]
+-   **Re-order Categorical Variable Levels**: In **Data \> Setup**, select the variable, then in the **Levels** section, click and drag levels or use the arrows to re-order (e.g., to set "Active" as the first level for a group variable). This is crucial for correct calculation of relative risks and odds ratios. \[Section 6.8\]
+
+### 3. Descriptive Statistics (Numerical)
+
+-   **Continuous** data:
+    -   **Analyses \> Exploration \> Descriptives**. Move variable(s) to **Variables** box. \[Section 1.9\]
+    -   **Interquartile Range (IQR):** In **Statistics** section, tick **Percentiles**. \[Section 1.10\]
+    -   **Standard Error of Mean** and **Confidence Interval for Mean**: In **Statistics** section, tick **Std. error of Mean** and **Confidence interval for Mean**. \[Section 3.16\]
+    -   **Summarise by Another Variable**: Move grouping variable to **Split by** box. \[Section 3.14\]
+-   **Categorical** data:
+    -   **One-way Frequency Table:** **Analyses \> Exploration \> Descriptives**. Move categorical variable to **Variables** box. In **Statistics** section, tick **Frequency tables**. \[Section 2.12\]
+    -   **Two-way Frequency Table** (Cross-tabulation): **Analyses \> Frequencies \> Contingency Tables \> Independent Samples**. Move variables to **Rows** and **Columns**. Request percentages in **Cells** section (e.g., **Row** or **Column** percent). \[Section 2.13\]
+    -   **Working with Summarised Data**: Enter summarised data into a new spreadsheet, including a **count** variable. In **Analyses \> Frequencies \> Independent Samples**, move **count** variable to **Counts** field. \[Section 6.10\]
+
+### 4. Descriptive Statistics (Graphical)
+
+-   **Continuous** data:
+    -   **Density** plot: **Analyses \> Exploration \> Descriptives**. Move variable to **Variables** box. In **Plots** section, tick **Density**. \[Section 1.10\]
+    -   **Box** plot: **Analyses \> Exploration \> Descriptives**. Move variable to **Variables** box. In **Plots** section, tick **Box plot**. \[Section 1.10\]
+    -   **Scatter** plot: **Analyses \> Exploration \> Scatterplot**. Choose variables for **X-Axis** and **Y-Axis**. Add a fitted line by ticking **Linear** in the **Regression Line** section. \[Section 8.9\]
+-   **Categorical** data (Bar Charts):
+    -   **One Categorical Variable**: **Analyses \> Exploration \> Descriptives**. Move variable to Variables box. In Plots section, tick **Bar plot**. \[Section 2.14\]
+    -   **Two Categorical Variables** (Contingency Tables command): \[Section 2.15\]
+        -   **Clustered** (Side by side): **Analyses \> Frequencies \> Contingency Tables \> Independent Samples**. Choose **Plots \> Bar Plot**, select **Bar Type: Side by side**. Adjust X-axis as needed (e.g., columns).
+        -   **Stacked**: Choose **Bar Type: Stacked**.
+        -   **Stacked Relative Frequency**: Choose Y-axis: **Percentages within column**.
+    -   **Two Categorical Variables** (**surveymv** module): **Modules \> surveymv \> Survey Plots**. Choose Variable to plot and Grouping Variable. Set Type (Stacked bar) and Frequencies (Percentages). \[Section 2.15\]
+
+### 5. Probability Distributions
+
+jamovi does not have built-in functions to calculate probabilities; external applets are recommended.
+
+-   **Binomial** probabilities \[Section 2.17\]: <https://homepage.stat.uiowa.edu/~mbognar/applets/bin.html>
+-   **Normal** probabilities \[Section 3.15\]: <https://homepage.stat.uiowa.edu/~mbognar/applets/normal.html>
+
+### 6. Confidence Intervals
+
+-   **Mean** (Individual data): **Analyses \> Exploration \> Descriptives.** Tick **Confidence interval for Mean.** \[Section 3.16\]
+-   **Mean** (Summarised data): **Install** `esci` module. **esci \> Means and Medians \> Single Group**. Select **Analyze summary data** tab, enter **Mean**, **Standard deviation**, **Sample size**. Tick **Extra details** for Standard Error. \[Section 3.17\]
+-   **Proportions**: **Frequencies \> One Sample Proportion Tests \> 2 Outcomes \| Binomial Test**. Define the count variable as the analysis variable (if individual data, use actual categorical variable). Set **Test value** (for hypothesis testing) and tick **Confidence intervals**. Note: jamovi uses Clopper-Pearson interval, not Wilson. \[Section 6.17\]
+
+<!-- -   **Relative Risk** / **Odds Ratio** / **Difference in Proportions**: **Analyses \> Frequencies \> Independent samples**. Move **exposure to Rows**, **outcome to Columns**. In **Statistics** section, tick **Relative risk**, **Odds ratio**, or **Difference in proportions**. Remember to re-order factor levels of exposure and outcome correctly first. -->
+
+### 7. Hypothesis Testing
+
+-   **One-Sample T-test**: **Analyses \> T-Tests \> One Sample T-Test**. Select **dependent variable**, enter **Test value** (hypothesised mean). \[Section 4.11\]
+-   and **Confidence interval for Mean**: **Analyses \> T-Tests \> Independent Samples T-Test**. Move continuous variable to **Dependent variables**, grouping variable to **Grouping Variable**. Tick **Welch's** for unequal variances. Request **Mean difference** and **Confidence interval** in **Additional Statistics**. \[Section 5.5\]
+-   **Paired T-test**: **Analyses \> T-Tests \> Paired Samples T-Test**. Enter **paired variables** into **Paired Variables** field. Select **Mean difference** and **Confidence interval** in **Additional Statistics**. \[Section 5.7\] <!-- -   Chi-squared Test (Independent Proportions): Performed automatically when creating a two-way table via Analyses \> Frequencies \> Independent samples. To check assumptions, request Expected counts in Cells section. If expected counts are small, request Fisher's exact test in Statistics section. --> <!-- -   McNemar's Test (Paired Proportions): Analyses \> Frequencies \> Contingency Tables \> Paired Samples \> McNemar test. Select the two paired variables. Note: jamovi does not provide difference in paired proportions or its confidence interval. -->
+
+<!-- ### 8. Correlation & Regression -->
+
+<!-- -   Correlation Coefficient: Regression \> Correlation Matrix. Select variables to include. -->
+
+<!-- -   Simple Linear Regression: Regression \> Linear Regression. Select outcome as Dependent variable, explanatory variable as Covariate. To obtain 95% CI for coefficients, in Model Coefficients section, click Confidence interval for Estimate. -->
+
+<!-- -   Plotting Residuals: In the Linear Regression command box, under Save, tick Residuals. This creates a new column in your dataset. Then, use Exploration \> Descriptives to generate a Density plot of these residuals. -->
+
+<!-- ### 9. Analysing Non-Normal Data -->
+
+<!-- -   Transforming Variables: Data \> Compute. Enter new variable name and formula (e.g., LN(los + 1)). Check normality of transformed variable with density plot. -->
+
+<!-- -   Wilcoxon Ranked-sum Test (Independent Samples): Analyses \> T-Tests \> Independent Samples T-Test. Move variables to Dependent variables and Grouping Variable. Untick Student's and tick Mann-Whitney U in the Tests section. -->
+
+<!-- -   Wilcoxon Matched-pairs Signed-rank Test (Paired Data): Analyses \> T-Tests \> Paired Samples T-Test. Select paired variables for Paired Variables. Untick Student's and tick Wilcoxon signed-rank in the Tests section. -->
+
+<!-- -   Rank Correlation (Spearman's & Kendall's): Regression \> Correlation Matrix. Select variables. In Correlation Coefficients section, tick Spearman and/or Kendall. -->
+
+Feedback? Contact me at [phcm9795.biostatistics\@unsw.edu.au](mailto:phcm9795.biostatistics@unsw.edu.au)

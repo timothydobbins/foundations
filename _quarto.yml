@@ -17,6 +17,8 @@ website:
       - download-mac.qmd
       - download-win.qmd
       - download-videos.qmd
+      - cheatsheet-jamovi.qmd
+      - cheatsheet-R.qmd
   google-analytics: "G-VQHR7ETRKE"
 
 format:
