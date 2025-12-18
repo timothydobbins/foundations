@@ -2,6 +2,9 @@
 title: "Course schedule"
 ---
 
+Foundations of Biostatistics runs in Term 2 beginning 1 June, 2026. The course schedule will be released when it is finalised by the timetabling team.
+
+<!-- 
 +---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
 | Week    | Lecture            | In-person jamovi Tutorial | In-person R Tutorial | Online Tutorials\    | Optional Software Workshop |
 |         |                    |                           |                      | jamovi and R         |                            |
@@ -48,4 +51,4 @@ title: "Course schedule"
 |         | Tue 5/8\           | Thu 7/8\                  | Thu 7/8\             | Thu 7/8\             |                            |
 |         | 11am-1pm           | 12pm-2pm                  | 4pm-6pm              | 6pm-8pm              |                            |
 +---------+--------------------+---------------------------+----------------------+----------------------+----------------------------+
-   
+    -->

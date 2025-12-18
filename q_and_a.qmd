@@ -9,13 +9,13 @@ callout-appearance: minimal
 ::: {.callout-note collapse="true"}
 ## How is this course taught: in-person or online?
 
-Foundations of Biostatistics is taught using both in-person and online modes. Lectures are delivered in-person, and are also live-streamed and recorded. We have both in-person and online tutorials, and the online tutorials are recorded.
+Foundations of Biostatistics is taught using both in-person and online modes. Lectures are delivered in-person, and are also live-streamed and recorded. We have online tutorials which are recorded. There is also a weekly drop-in session that is available both in-person and online.
 :::
 
 ::: {.callout-note collapse="true"}
 ## Are there any attendance requirements?
 
-There are no attendance requirements. Many students don't come to campus, and the course is designed to be accessible by all students regardless of where they live.
+**There are no attendance requirements.** Many students don't come to campus, and the course is designed to be accessible by all students regardless of where they live.
 :::
 
 ::: {.callout-note collapse="true"}
@@ -36,9 +36,12 @@ You will get a lot out of either course, whatever you decide to complete first.
 ## Are there any prerequisites or expected background knowledge for this course? For example, does the course require university-level mathematics?
 
 There are no prerequisite maths skills - you certainly don't need to have studied mathematics or statistics at university. I will touch on some high-school maths, but very infrequently.
-It's been a long time since I've studies maths, and I'm feeling nervous. Are there any preparatory courses I should study?
+:::
 
-If it has been a while since you have studied maths, the resources from [Unit 1 of the Algebra Basics from the Khan Academy](https://www.khanacademy.org/math/algebra-basics/basic-alg-foundations) might be useful.
+::: {.callout-note collapse="true"}
+## It's been a long time since I've studies maths, and I'm feeling nervous. Are there any preparatory courses I should study?
+
+If it has been a while since you have studied maths, the resources from [Unit 1 of the Algebra Basics from the Khan Academy](https://www.khanacademy.org/math/algebra-basics/basic-alg-foundations){.external target="_blank"} might be useful.
  
 Don’t worry that it’s got “algebra” in its title, it’s just some basic maths skills that you might not remember so well. And don’t feel like you need to formally enrol, or study every section: just watch some of the videos and read some of the notes for the topics that you might not remember - and maybe take some of the quizzes. I would recommend the section on “Order of Operations”, but you can definitely skip “Area of triangles” and “Circumference and area of circles”.
 :::
@@ -84,4 +87,4 @@ No, you do not need to buy a textbook.
 All the content you need for this course is provided in the course notes. If you want to supplement the content we provide, suggested readings are provided for each module. You can access these readings through the UNSW library, and links are provided in the course notes.
 :::
 
-Do you have a question that is not answered here? Please [email me](mailto:t.dobbins@unsw.edu.au), and I can provide an answer.
+Do you have a question that is not answered here? Please [email me](mailto:phcm9795.biostats@unsw.edu.au), and I can provide an answer.

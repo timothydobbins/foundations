@@ -1,6 +1,6 @@
 ---
 title: "Foundations of Biostatistics"
-subtitle: "Term 2, 2025"
+subtitle: "Term 2, 2026"
 ---
 
 # Welcome
@@ -17,8 +17,11 @@ How can we use data to tell a story?
 - How can we estimate the smoking rate in Australia?
 - How can we assess whether a new treatment reduces pain in patients with arthritis?
 
-Welcome to **Foundations of Biostatistics**. In this course, we will introduce you to fundamental data visualisation skills to create meaningful and appealing graphical summaries of your data. We will explore which numeric summaries are best to describe your data, discuss why there is variability in these summaries and how to represent this variability. We will show how to test hypotheses to answer real-world research questions. Finally, we will explore how many participants should be enrolled to provide robust conclusions when designing a study.
+Welcome to **Foundations of Biostatistics**. In this course, I will introduce you to fundamental data visualisation skills to create meaningful and appealing graphical summaries of your data. We will explore which numeric summaries are best to describe your data, discuss why there is variability in these summaries and how to represent this variability. I will show how to test hypotheses to answer real-world research questions. Finally, we will explore how many participants should be enrolled to provide robust conclusions when designing a study.
 
 The core course can be studied in an online or in-person mode (or a mixture of both), and teaches you to how to obtain and interpret biostatistical output using software, while minimising mathematical formulae.
 
-We invite you to learn how to tell a story using data.
+I invite you to learn how to tell a story using data.
+
+Timothy Dobbins  
+[phcm9795.biostats@unsw.edu.au](mailto:phcm9795.biostats@unsw.edu.au)

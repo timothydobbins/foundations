@@ -10,15 +10,15 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - software.qmd
       - schedule.qmd
+      - software.qmd
       - q_and_a.qmd
-      - course-intro.qmd
-      - download-mac.qmd
-      - download-win.qmd
-      - download-videos.qmd
-      - cheatsheet-jamovi.qmd
-      - cheatsheet-R.qmd
+#      - course-intro.qmd
+#      - download-mac.qmd
+#      - download-win.qmd
+#      - download-videos.qmd
+#      - cheatsheet-jamovi.qmd
+#      - cheatsheet-R.qmd
   google-analytics: "G-VQHR7ETRKE"
 
 format:
@@ -26,3 +26,5 @@ format:
     theme: cosmo
     highlight-style: monochrome
     title-block-banner: "#ffdc00"
+    link-external-icon: true
+    link-external-newwindow: true

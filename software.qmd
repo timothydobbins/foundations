@@ -2,13 +2,13 @@
 title: "Statistical software"
 ---
 
-In this course, you can choose to learn one of two packages: [jamovi](https://www.jamovi.org/) or [R](https://www.r-project.org/).
+In this course, you can choose to learn **one** of two packages: [jamovi](https://www.jamovi.org/){.external target="_blank"} **or** [R](https://www.r-project.org/){.external target="_blank"}.
 
-jamovi is a relatively new package, that has been designed to be easy to use. It is a free, open-source package, that is built on top of the R programming language. jamovi is based around a spreadsheet, and has an intuitive point-and-click interface. jamovi is available to download for Windows, macOS and linux at [https://www.jamovi.org/download.html](https://www.jamovi.org/download.html). We recommend using "jamovi 2.6.26 solid" where possible.
+jamovi is a relatively new package that has been designed to be easy to use. It is a free, open-source package, that is built on top of the R programming language. jamovi is based around a spreadsheet, and has an intuitive point-and-click interface. jamovi is available to download for Windows, macOS and linux at [https://www.jamovi.org/download.html](https://www.jamovi.org/download.html){.external target="_blank"}. I recommend using the latest version of jamovi, currently "jamovi 2.7.13 current" where possible.
 
-R is a programming language, which is a popular choice for biostatistics due to its flexibility and its power. Additionally, as R is an open-source project, it is available at no cost. While R has a cost advantage, it does have a reputation of being difficult to learn.
+R is a programming language, which is a popular choice for biostatistics due to its flexibility and its power. Additionally, as R is an open-source project, it is available at no cost. While R is very powerful, it does have a reputation of being difficult to learn.
 
-If you choose to use R, we recommend running R via a package called [RStudio](https://posit.co/download/rstudio-desktop/). Both R and RStudio are available for Windows and Mac (and Linux!) machines, and are available at no cost. Installation instructions will be provided in the course materials.
+If you choose to use R, I recommend running R via a package called [RStudio](https://posit.co/download/rstudio-desktop/){.external target="_blank"}. Both R and RStudio are available for Windows and Mac (and Linux!) machines, and are available at no cost. Installation instructions will be provided in the course materials.
 
 ### Summary
 
@@ -23,4 +23,4 @@ You should learn R if:
 - you are interested in data science;
 - you are comfortable with file paths, and don't mind a bit of debugging.
 
-Ultimately, if in doubt, I'd lean towards learning jamovi.
+**If you are in doubt, I recommend learning jamovi.**
