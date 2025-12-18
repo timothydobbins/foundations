@@ -1,6 +1,9 @@
 ---
-title: "Statistical software"
+title: "Foundations of Biostatistics"
+subtitle: "Term 2, 2026"
 ---
+
+# Statistical software
 
 In this course, you can choose to learn **one** of two packages: [jamovi](https://www.jamovi.org/){.external target="_blank"} **or** [R](https://www.r-project.org/){.external target="_blank"}.
 

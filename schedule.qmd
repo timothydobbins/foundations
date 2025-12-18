@@ -1,6 +1,9 @@
 ---
-title: "Course schedule"
+title: "Foundations of Biostatistics"
+subtitle: "Term 2, 2026"
 ---
+
+# Course schedule
 
 Foundations of Biostatistics runs in Term 2 beginning 1 June, 2026. The course schedule will be released when it is finalised by the timetabling team.
 

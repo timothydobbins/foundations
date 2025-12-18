@@ -1,8 +1,11 @@
 ---
-title: "Q&A"
+title: "Foundations of Biostatistics"
+subtitle: "Term 2, 2026"
 
 callout-appearance: minimal
 ---
+
+# Q&A
 
 ## Class attendance and enrolment questions
 

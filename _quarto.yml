@@ -10,9 +10,12 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - schedule.qmd
-      - software.qmd
-      - q_and_a.qmd
+      - href: schedule.qmd
+        text: Course schedule
+      - href: software.qmd
+        text: Statistical software
+      - href: q_and_a.qmd
+        text: Q&A
 #      - course-intro.qmd
 #      - download-mac.qmd
 #      - download-win.qmd
