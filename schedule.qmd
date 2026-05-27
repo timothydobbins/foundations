@@ -5,49 +5,302 @@ subtitle: "Term 2, 2026"
 
 # Course schedule
 
-+---------+--------------------+----------------------+----------------------------+
-| Week    | Lecture            | Online Tutorials\    | Drop-in Software Clinic\   |
-|         |                    | jamovi or R          | In-person or online        |
-+=========+====================+======================+============================+
-| Week 0  | Introductory video |                      | Introductory video         |
-+---------+--------------------+----------------------+----------------------------+
-| Week 1  | Lecture 1\         | Tutorial 1\          | \                          |
-|         | Monday 1 June\     | Thursday 4 June\     | Friday 5 June\             |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 2  | Lecture 2\         | Tutorial 2\          | \                          |
-|         | NSW Holiday\       | Thursday 11 June\    | Friday 12 June\            |
-|         | Recorded lecture   | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 3  | Lecture 3\         | Tutorial 3\          | \                          |
-|         | Monday 15 June\    | Thursday 18 June\    | Friday 19 June\            |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 4  | Lecture 4\         | Tutorial 4\          | \                          |
-|         | Monday 22 June\    | Thursday 25 June\    | Friday 26 June\            |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 5  | Lecture 5\         | Tutorial 5\          | \                          |
-|         | Monday 29 June\    | Thursday 2 July\     | Friday 3 July\             |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 6  | Lecture 6\         | Tutorial 6\          | \                          |
-|         | Monday 6 July\     | Thursday 9 July\     | Friday 10 July\            |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 7  | Lecture 7\         | Tutorial 7\          | \                          |
-|         | Monday 13 July\    | Thursday 16 July\    | Friday 17 July\            |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 8  | Lecture 8\         | Tutorial 8\          | \                          |
-|         | Monday 20 July\    | Thursday 23 July\    | Friday 24 July\            |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 9  | Lecture 9\         | Tutorial 9\          | \                          |
-|         | Monday 27 July\    | Thursday 30 July\    | Friday 31 July\            |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
-| Week 10 | Lecture 10\        | Tutorial 10\         | \                          |
-|         | Monday 3 August\   | Thursday 6 August\   | Friday 7 August\           |
-|         | 6pm-8pm            | 6pm-8pm              | 10am-12pm                  |
-+---------+--------------------+----------------------+----------------------------+
+```{=html}
+<style type="text/css">
+    .tg {
+        border-collapse: collapse;
+        border-color: #ccc;
+        border-spacing: 0;
+    }
+    .tg td {
+        background-color: #fff;
+        border-color: #ccc;
+        border-style: solid;
+        border-width: 0px;
+        color: #333;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg th {
+        background-color: #f0f0f0;
+        border-color: #ccc;
+        border-style: solid;
+        border-width: 0px;
+        color: #333;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg .tg-x4x5 {
+        border-color: #f0f0f0;
+        font-family: Arial, Helvetica, sans-serif !important;
+        font-weight: bold;
+        text-align: left;
+        vertical-align: top;
+    }
+    .tg .tg-hdcb {
+        border-color: #000000;
+        font-family: Arial, Helvetica, sans-serif !important;
+        font-weight: bold;
+        text-align: left;
+        vertical-align: top;
+    }
+    .tg .tg-m4fv {
+        background-color: #f9f9f9;
+        border-color: #000000;
+        font-family: Arial, Helvetica, sans-serif !important;
+        text-align: left;
+        vertical-align: top;
+    }
+    .tg .tg-pjqy {
+        border-color: #000000;
+        font-family: Arial, Helvetica, sans-serif !important;
+        text-align: left;
+        vertical-align: top;
+    }
+</style>
+<table class="tg">
+    <thead>
+        <tr>
+            <th class="tg-x4x5" style="width: 80px">Week</th>
+            <th class="tg-hdcb" style="width: 200px">
+                Lecture<br /><small
+                    ><a
+                        href="https://maps.app.goo.gl/cgEL7T4GB8auZ4CDA"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >Colombo Lecture Theatre B</a
+                    ></small
+                >
+            </th>
+            <th class="tg-hdcb" style="width: 100px">
+                Online<br />Tutorial<br /><small
+                    ><a
+                        href="https://teams.microsoft.com/l/team/19%3AwXKjPaoWWffNaG0Nog3SvqHiHODWZBbQxq6tOZWmNn81%40thread.tacv2/conversations?groupId=351bceed-f83d-40fd-b414-a22925c873f7&tenantId=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >MS Teams</a
+                    ></small
+                >
+            </th>
+            <th class="tg-hdcb" style="width: 100px">
+                Optional<br />Workshop<br /><small
+                    ><a
+                        href="https://maps.app.goo.gl/uoyyb5Aprn3xM3Bj8"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >Webster Room 127</a
+                    >
+                    <br />
+                    or
+                    <br />
+                    <a
+                        href="https://outlook.office.com/bookwithme/user/7c5c69beb2e24d1fabe78eef4b82bb3d@ad.unsw.edu.au/meetingtype/PX1lvWZETUGoI2CpZGpbjg2?anonymous&ismsaljsauthenabled&ep=mlink"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >Book online session</a
+                    ></small
+                >
+            </th>
+            <th class="tg-hdcb" style="width: 100px">
+                Assessment<br />Released
+            </th>
+            <th class="tg-hdcb" style="width: 100px">Assessment<br />Due</th>
+            <th class="tg-hdcb" style="width: 120px">
+                Estimated Hours<br />of Effort
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="tg-m4fv">O-Week</td>
+            <td class="tg-m4fv">Introductory<br />videos</td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv">2</td>
+        </tr>
+        <tr>
+            <td class="tg-pjqy">Week 1</td>
+            <td class="tg-pjqy">
+                <strong>Lecture 1</strong><br />Mon 1 Jun<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Tutorial 1</strong><br />Thu 4 Jun<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Workshop 1</strong><br />Fri 5 Jun<br />10am-12pm
+            </td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy">10</td>
+        </tr>
+        <tr>
+            <td class="tg-m4fv">Week 2</td>
+            <td class="tg-m4fv" style="background-color: yellow">
+                <strong
+                    >Lecture 2: <br />
+                    Colombo Lecture Theatre A<br />
+                    Tue 9 Jun</strong
+                ><br />6-8pm<br />Note: venue and date change to account for NSW
+                Public Holiday
+            </td>
+            <td class="tg-m4fv">
+                <strong>Tutorial 2</strong><br />Thu 11 Jun<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Workshop 2</strong><br />Fri 12 Jun<br />10am-12pm
+            </td>
+            <td class="tg-m4fv"><strong>Quiz 1</strong><br />Fri 12 Jun</td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv">10</td>
+        </tr>
+        <tr>
+            <td class="tg-pjqy">Week 3</td>
+            <td class="tg-pjqy">
+                <strong>Lecture 3</strong><br />Mon 15 Jun<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Tutorial 3</strong><br />Thu 18 Jun<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Workshop 3</strong><br />Fri 19 Jun<br />10am-12pm
+            </td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy">12</td>
+        </tr>
+        <tr>
+            <td class="tg-m4fv">Week 4</td>
+            <td class="tg-m4fv">
+                <strong>Lecture 4</strong><br />Mon 22 Jun<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Tutorial 4</strong><br />Thu 25 Jun<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Workshop 4</strong><br />Fri 26 Jun<br />10am-12pm
+            </td>
+            <td class="tg-m4fv"><strong>Quiz 2</strong><br />Fri 26 Jun</td>
+            <td class="tg-m4fv"><strong>Quiz 1</strong><br />Mon 22 Jun</td>
+            <td class="tg-m4fv">10</td>
+        </tr>
+        <tr>
+            <td class="tg-pjqy">Week 5</td>
+            <td class="tg-pjqy">
+                <strong>Lecture 5</strong><br />Mon 29 Jun<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Tutorial 5</strong><br />Thu 2 Jul<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Workshop 5</strong><br />Fri 3 Jul<br />10am-12pm
+            </td>
+            <td class="tg-pjqy"><strong>Report 1</strong><br />Fri 3 Jul</td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy">12</td>
+        </tr>
+        <tr>
+            <td class="tg-m4fv">Week 6</td>
+            <td class="tg-m4fv">
+                <strong>Lecture 6</strong><br />Mon 6 Jul<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Tutorial 6</strong><br />Thu 9 Jul<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Workshop 6</strong><br />Fri 10 Jul<br />10am-12pm
+            </td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv"><strong>Quiz 2</strong><br />Mon 6 Jul</td>
+            <td class="tg-m4fv">20</td>
+        </tr>
+        <tr>
+            <td class="tg-pjqy">Week 7</td>
+            <td class="tg-pjqy">
+                <strong>Lecture 7</strong><br />Mon 13 Jul<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Tutorial 7</strong><br />Thu 16 Jul<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Workshop 7</strong><br />Fri 17 Jul<br />10am-12pm
+            </td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy"><strong>Report 1</strong><br />Fri Jul 17</td>
+            <td class="tg-pjqy">20</td>
+        </tr>
+        <tr>
+            <td class="tg-m4fv">Week 8</td>
+            <td class="tg-m4fv">
+                <strong>Lecture 8</strong><br />Mon 20 Jul<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Tutorial 8</strong><br />Thu 23 Jul<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Workshop 8</strong><br />Fri 24 Jul<br />10am-12pm
+            </td>
+            <td class="tg-m4fv"><strong>Quiz 3</strong><br />Fri 24 Jul</td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv">10</td>
+        </tr>
+        <tr>
+            <td class="tg-pjqy">Week 9</td>
+            <td class="tg-pjqy">
+                <strong>Lecture 9</strong><br />Mon 27 Jul<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Tutorial 9</strong><br />Thu 30 Jul<br />6-8pm
+            </td>
+            <td class="tg-pjqy">
+                <strong>Workshop 9</strong><br />Fri 31 Jul<br />10am-12pm
+            </td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy"><strong>Report 2</strong><br />Fri 31 Jul</td>
+            <td class="tg-pjqy">12</td>
+        </tr>
+        <tr>
+            <td class="tg-m4fv">Week 10</td>
+            <td class="tg-m4fv">
+                <strong>Lecture 10</strong><br />Mon 3 Aug<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Tutorial 10</strong><br />Thu 6 Aug<br />6-8pm
+            </td>
+            <td class="tg-m4fv">
+                <strong>Workshop 10</strong><br />Fri 7 Aug<br />10am-12pm
+            </td>
+            <td class="tg-m4fv"><strong>Quiz 4</strong><br />Fri 7 Aug</td>
+            <td class="tg-m4fv"><strong>Quiz 3</strong><br />Mon 3 Aug</td>
+            <td class="tg-m4fv">20</td>
+        </tr>
+        <tr>
+            <td class="tg-pjqy">Week 11</td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy"></td>
+            <td class="tg-pjqy"><strong>Report 2</strong><br />Fri 14 Aug</td>
+            <td class="tg-pjqy">10</td>
+        </tr>
+        <tr>
+            <td class="tg-m4fv">Week 12</td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv"></td>
+            <td class="tg-m4fv"><strong>Quiz 4</strong><br />Mon 17 Aug</td>
+            <td class="tg-m4fv">2</td>
+        </tr>
+    </tbody>
+</table>
+```
+
