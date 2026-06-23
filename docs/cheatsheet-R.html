@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>R cheat sheet – PHCM9795</title>
+<title>Revised R cheat sheet – PHCM9795</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -110,7 +110,7 @@ gtag('config', 'G-VQHR7ETRKE', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">R cheat sheet</h1>
+      <h1 class="title">Revised R cheat sheet</h1>
                       </div>
   </div>
     
@@ -173,29 +173,29 @@ gtag('config', 'G-VQHR7ETRKE', { 'anonymize_ip': true});
 <p>This cheat sheet outlines key R commands and options for statistical analysis, as taught in PHCM9795 Foundations of Biostatistics.</p>
 <section id="generative-ai-statement" class="level2">
 <h2 class="anchored" data-anchor-id="generative-ai-statement">Generative AI statement</h2>
-<p>This work was developed with the assistance of <a href="https://notebooklm.google/">NotebookLM</a></p>
+<p>This work was developed with the assistance of ChatGPT (OpenAI).</p>
 <section id="rstudio-setup-basics" class="level3">
 <h3 class="anchored" data-anchor-id="rstudio-setup-basics">1. RStudio Setup &amp; Basics</h3>
 <ul>
-<li><strong>Install R:</strong> Download from <a href="https://cran.r-project.org/"><code>https://cran.r-project.org/</code></a>. [Section 1.12]</li>
-<li><strong>Install RStudio</strong>: Download from <a href="https://posit.co/download/rstudio-desktop/"><code>https://posit.co/download/rstudio-desktop/</code></a>. <strong>You must install R</strong> before installing RStudio. [Section 1.12]</li>
-<li><strong>RStudio Preferences</strong>: Set to not preserve workspace between sessions by deselecting “Restore .RData into workplace at startup” and choosing “Save workspace to .RData on exit: Never” (Mac: Edit &gt; Settings, Windows: Tools &gt; Global Options). [Section 1.12]</li>
-<li><strong>Create a Project</strong> to simplify file navigation: <strong>File &gt; New Project… &gt; New Directory &gt; New Project</strong>, then provide a directory name (e.g., PHCM9795) and browse for location. [Section 1.12]</li>
-<li><strong>Start a new R Script</strong>: <strong>File &gt; New File &gt; R Script</strong> (or <strong>Ctrl+Shift+N/Command+Shift+N</strong>). Write commands here to save your work. [Section 1.12]</li>
-<li><strong>Run a Script</strong>: <strong>Code &gt; Run Region &gt; Run All</strong> or select all the code, and use <strong>Ctrl+Enter</strong> or <strong>Command+Enter</strong>. [Section 1.12]</li>
-<li><strong>Comments</strong>: Use <code>#</code> to add comments, which R ignores. [Section 1.12]</li>
-<li><strong>Object Assignment</strong>: Use <code>&lt;-</code> (e.g., <code>x &lt;- 42</code>) to create objects. [Section 1.12]</li>
-<li><strong>Vectors</strong>: Best thought of as <strong>columns</strong> of data. Combine values of the same type using the <strong>combine function</strong>: <code>c()</code> (e.g., <code>age &lt;- c(20, 25, 23, 29, 21, 27)</code>). [Section 1.12]</li>
-<li><strong>Data Frames</strong>: Essentially a spreadsheet of columns. [Section 1.12]</li>
-<li><strong>Convert a single column to a data frame:</strong> Some packages (e.g.&nbsp;<code>jmv</code>) can only work with data frames, not single columns. Convert a single column to a data frame using <code>as.data.frame()</code> (e.g., <code>age_df &lt;- as.data.frame(age)</code>). [Section 3.21]</li>
-<li><strong>Case Sensitivity</strong>: R is case-sensitive (e.g., <code>age</code>, <code>Age</code>, <code>AGE</code> are all different names). [Section 1.12]</li>
+<li><strong>Install R:</strong> Download from <a href="https://cran.r-project.org/"><code>https://cran.r-project.org/</code></a>. [Section 1.13]</li>
+<li><strong>Install RStudio</strong>: Download from <a href="https://posit.co/download/rstudio-desktop/"><code>https://posit.co/download/rstudio-desktop/</code></a>. <strong>You must install R</strong> before installing RStudio. [Section 1.13]</li>
+<li><strong>RStudio Preferences</strong>: Set to not preserve workspace between sessions by deselecting “Restore .RData into workplace at startup” and choosing “Save workspace to .RData on exit: Never” (Mac: Edit &gt; Settings, Windows: Tools &gt; Global Options). [Section 1.13]</li>
+<li><strong>Create a Project</strong> to simplify file navigation: <strong>File &gt; New Project… &gt; New Directory &gt; New Project</strong>, then provide a directory name (e.g., PHCM9795) and browse for location. [Section 1.13]</li>
+<li><strong>Start a new R Script</strong>: <strong>File &gt; New File &gt; R Script</strong> (or <strong>Ctrl+Shift+N/Command+Shift+N</strong>). Write commands here to save your work. [Section 1.13]</li>
+<li><strong>Run a Script</strong>: <strong>Code &gt; Run Region &gt; Run All</strong> or select all the code, and use <strong>Ctrl+Enter</strong> or <strong>Command+Enter</strong>. [Section 1.13]</li>
+<li><strong>Comments</strong>: Use <code>#</code> to add comments, which R ignores. [Section 1.13]</li>
+<li><strong>Object Assignment</strong>: Use <code>&lt;-</code> (e.g., <code>x &lt;- 42</code>) to create objects. [Section 1.13]</li>
+<li><strong>Vectors</strong>: Best thought of as <strong>columns</strong> of data. Combine values of the same type using the <strong>combine function</strong>: <code>c()</code> (e.g., <code>age &lt;- c(20, 25, 23, 29, 21, 27)</code>). [Section 1.13]</li>
+<li><strong>Data Frames</strong>: Essentially a spreadsheet of columns. [Section 1.13]</li>
+<li><strong>Convert a single column to a data frame:</strong> Some packages (e.g.&nbsp;<code>jmv</code>) can only work with data frames, not single columns. Convert a single column to a data frame using <code>as.data.frame()</code> (e.g., <code>age_df &lt;- as.data.frame(age)</code>). [Section 3.25]</li>
+<li><strong>Case Sensitivity</strong>: R is case-sensitive (e.g., <code>age</code>, <code>Age</code>, <code>AGE</code> are all different names). [Section 1.13]</li>
 </ul>
 </section>
 <section id="packages" class="level3">
 <h3 class="anchored" data-anchor-id="packages">2. Packages</h3>
 <ul>
-<li><strong>Install a package</strong>: Use <code>install.packages("package_name")</code> (e.g., <code>install.packages("jmv")</code>) or <strong>Tools &gt; Install Packages</strong>. Packages <strong>only need to be installed once</strong> for your R installation. [Section 1.12]</li>
-<li><strong>Load a package</strong>: Use <code>library(package_name)</code> (e.g., <code>library(jmv)</code>). Must be done in <strong>each R session</strong> before using the package. [Section 1.12]</li>
+<li><strong>Install a package</strong>: Use <code>install.packages("package_name")</code> (e.g., <code>install.packages("jmv")</code>) or <strong>Tools &gt; Install Packages</strong>. Packages <strong>only need to be installed once</strong> for your R installation. [Section 1.13]</li>
+<li><strong>Load a package</strong>: Use <code>library(package_name)</code> (e.g., <code>library(jmv)</code>). Must be done in <strong>each R session</strong> before using the package. [Section 1.13]</li>
 </ul>
 </section>
 <section id="data-handling-manipulation" class="level3">
@@ -203,26 +203,26 @@ gtag('config', 'G-VQHR7ETRKE', { 'anonymize_ip': true});
 <ul>
 <li><strong>Reading</strong> in data:
 <ul>
-<li><strong>R data file</strong> (<code>.rds</code>): <code>readRDS("file_path.rds")</code> (e.g., <code>pbc &lt;- readRDS("data/activities/mod01_pbc.rds")</code>). [Section 1.13]</li>
+<li><strong>R data file</strong> (<code>.rds</code>): <code>readRDS("file_path.rds")</code> (e.g., <code>pbc &lt;- readRDS("data/activities/mod01_pbc.rds")</code>). [Section 1.14]</li>
 <li><strong>Comma Separated Values</strong> (<code>.csv</code>): <code>read.csv("file_path.csv")</code> (e.g., <code>sample &lt;- read.csv("data/examples/mod02_weight_1000.csv")</code>). [Section 2.20]</li>
-<li><strong>Excel file</strong> (<code>.xlsx</code>): <code>read_excel("file_path.xlsx")</code> from <code>readxl</code> package (e.g., <code>survey &lt;- read_excel("data/examples/mod03_health_survey.xlsx")</code>). [Section 3.18]</li>
+<li><strong>Excel file</strong> (<code>.xlsx</code>): <code>read_excel("file_path.xlsx")</code> from <code>readxl</code> package (e.g., <code>survey &lt;- read_excel("data/examples/mod03_health_survey.xlsx")</code>). [Section 3.19]</li>
 </ul></li>
 <li><strong>View</strong> data:
 <ul>
-<li><code>summary(dataframe)</code>: Quick overview of all variables. [Section 1.13]</li>
-<li><code>skim(dataframe)</code> (from <code>skimr</code> package): Provides detailed summaries and rudimentary histograms. [Section 1.13]</li>
-<li><code>head(dataframe)</code>: Shows the first 6 rows. [Section 3.19]</li>
-<li><code>tail(dataframe)</code>: Shows the last 6 rows. [Section 3.19]</li>
-<li><code>subset(dataframe, condition)</code>: Lists observations meeting a condition (e.g., <code>subset(sample, weight&gt;200)</code>). [Section 1.14]</li>
+<li><code>summary(dataframe)</code>: Quick overview of all variables. [Section 1.14]</li>
+<li><code>skim(dataframe)</code> (from <code>skimr</code> package): Provides detailed summaries and rudimentary histograms. [Section 1.14]</li>
+<li><code>head(dataframe)</code>: Shows the first 6 rows. [Section 3.20]</li>
+<li><code>tail(dataframe)</code>: Shows the last 6 rows. [Section 3.20]</li>
+<li><code>subset(dataframe, condition)</code>: Lists observations meeting a condition (e.g., <code>subset(sample, weight&gt;200)</code>). [Section 1.15]</li>
 </ul></li>
 <li><strong>Modify</strong> data:
 <ul>
-<li><strong>Create New Variable</strong>: <code>dataframe$new_variable &lt;- formula</code> (e.g., <code>survey$bmi &lt;- survey$weight / (survey$height^2)</code>). [Section 3.19]</li>
-<li><strong>Assign Meaningful Names</strong>: recommended for easy to read output. Simplest way is to create a new column: <code>dataframe$newvariablename &lt;- datafram$oldvariable</code>. Spaces and punctuation can be incorporated by surrounding the new variable name in quotation marks: <code>dataframe$"new variable name (units)" &lt;- datafram$oldvariable</code>.</li>
-<li><strong>Convert to Factor</strong> (Categorical Variable): <code>dataframe$variable &lt;- factor(dataframe$variable, levels=c(values), labels=c("labels")</code>) (e.g., <code>pbc$sex &lt;- factor(pbc$sex, levels = c(1, 2), labels = c("Male", "Female"))</code>). [Module 2, R notes]</li>
+<li><strong>Create New Variable</strong>: <code>dataframe$new_variable &lt;- formula</code> (e.g., <code>survey$bmi &lt;- survey$weight / (survey$height^2)</code>). [Section 3.20]</li>
+<li><strong>Assign Meaningful Names</strong>: recommended for easy to read output. Simplest way is to create a new column: <code>dataframe$newvariablename &lt;- dataframe$oldvariable</code>. Spaces and punctuation can be incorporated by surrounding the new variable name in quotation marks: <code>dataframe$"new variable name (units)" &lt;- dataframe$oldvariable</code>.</li>
+<li><strong>Convert to Factor</strong> (Categorical Variable): <code>dataframe$variable &lt;- factor(dataframe$variable, levels=c(values), labels=c("labels"))</code> (e.g., <code>pbc$sex &lt;- factor(pbc$sex, levels = c(1, 2), labels = c("Male", "Female"))</code>). [Module 2, R notes]</li>
 <li><strong>Re-order Factor Levels</strong>: <code>relevel(dataframe$factor_variable, ref="first_level")</code> (e.g., <code>drug$group &lt;- relevel(drug$group, ref="Active")</code>). Essential for correct calculation of measures of effect like RR or OR. [Section 6.13]</li>
-<li><strong>Recode Continuous to Categorical</strong>: <code>cut(dataframe$continuous_var, breaks=c(limits), labels=c("labels")</code>) (e.g., <code>pbc$agegroup &lt;- cut(pbc$age, breaks = c(0, 30, 50, 70, 100), right = FALSE, labels = c("Less than 30", "30 to less than 50", "50 to less than 70", "70 or more"))</code>). [Section 2.21]</li>
-<li><strong>Set value to missing</strong> (NA): <code>dataframe$variable = ifelse(condition, NA, dataframe$variable)</code> (e.g., <code>sample$weight_clean = ifelse(sample$weight==700.2, NA, sample$weight)</code>). [Section 1.14]</li>
+<li><strong>Recode Continuous to Categorical</strong>: <code>cut(dataframe$continuous_var, breaks=c(limits), labels=c("labels"))</code> (e.g., <code>pbc$agegroup &lt;- cut(pbc$age, breaks = c(0, 30, 50, 70, 100), right = FALSE, labels = c("Less than 30", "30 to less than 50", "50 to less than 70", "70 or more"))</code>). [Section 2.21]</li>
+<li><strong>Set value to missing</strong> (NA): <code>dataframe$variable = ifelse(condition, NA, dataframe$variable)</code> (e.g., <code>sample$weight_clean = ifelse(sample$weight==700.2, NA, sample$weight)</code>). [Section 1.15]</li>
 <li><strong>Log transformation</strong>: <code>dataframe$new_var &lt;- log(dataframe$old_var)</code> (e.g., <code>hospital$ln_los &lt;- log(hospital$los+1)</code>). [Section 9.12]</li>
 <li><strong>Back-transform from log</strong>: <code>exp(log_transformed_value)</code> (e.g., <code>exp(3.407232)</code>). [Section 9.12]</li>
 </ul></li>
@@ -234,7 +234,7 @@ gtag('config', 'G-VQHR7ETRKE', { 'anonymize_ip': true});
 <li><strong>Continuous</strong> data:
 <ul>
 <li><code>summary(vector)</code>: Basic summary (Minimum, 1st Quartile, Median, Mean, 3rd Quartile, Maximum). [Section 1.13]</li>
-<li><code>descriptives(data=dataframe, vars=c(var1, var2), pc=TRUE, ci=TRUE, splitBy=group_var)</code> (from <code>jmv</code>): Comprehensive descriptive statistics, including percentiles, confidence interval of the mean, and can split by a categorical variable. [Section 1.13; Section 3.20]</li>
+<li><code>descriptives(data=dataframe, vars=c(var1, var2), pc=TRUE, ci=TRUE, splitBy=group_var)</code> (from <code>jmv</code>): Comprehensive descriptive statistics, including percentiles, confidence interval of the mean, and can split by a categorical variable. [Section 1.14; Section 3.22]</li>
 </ul></li>
 <li><strong>Categorical</strong> data:
 <ul>
@@ -248,8 +248,8 @@ gtag('config', 'G-VQHR7ETRKE', { 'anonymize_ip': true});
 <ul>
 <li><strong>Continuous</strong> data:
 <ul>
-<li><strong>Density plot</strong>: <code>plot(density(dataframe$variable, na.rm=TRUE), xlab="Label", main="Title")</code>. Can also use <code>descriptives()</code> function in <code>jmv</code>, with the <code>dens=TRUE</code> option (e.g.&nbsp;<code>descriptives(data=dataframe, vars=varname, dens=TRUE)</code>. [Section 1.13]</li>
-<li><strong>Box plot</strong>: <code>boxplot(dataframe$variable, xlab="Label", main="Title"</code>). Can also use <code>descriptives()</code> function in <code>jmv</code>, with the <code>box=TRUE</code> option. [Section 1.13]</li>
+<li><strong>Density plot</strong>: <code>plot(density(dataframe$variable, na.rm=TRUE), xlab="Label", main="Title")</code>. Can also use <code>descriptives()</code> function in <code>jmv</code>, with the <code>dens=TRUE</code> option (e.g.&nbsp;<code>descriptives(data=dataframe, vars=varname, dens=TRUE)</code>). [Section 1.14]</li>
+<li><strong>Box plot</strong>: <code>boxplot(dataframe$variable, xlab="Label", main="Title")</code>. Can also use <code>descriptives()</code> function in <code>jmv</code>, with the <code>box=TRUE</code> option. [Section 1.14]</li>
 <li><strong>Scatter plot</strong>: <code>plot(x=dataframe$x_var, y=dataframe$y_var, xlab="X Label", ylab="Y Label")</code>. Add regression line: <code>abline(lm(dataframe$y_var ~ dataframe$x_var))</code>. Can also use <code>scat(data=dataframe, x="X_var", y="Y_var", line="linear")</code> from <code>scatr</code> package. [Section 8.13]</li>
 </ul></li>
 <li><strong>Categorical</strong> data (Bar Charts):
@@ -269,15 +269,15 @@ gtag('config', 'G-VQHR7ETRKE', { 'anonymize_ip': true});
 <h3 class="anchored" data-anchor-id="probability-distributions">6. Probability Distributions</h3>
 <p>While R has functions to calculate probabilities, external applets may be easier.</p>
 <ul>
-<li><strong>Binomial</strong> probabilities <a href="https://homepage.stat.uiowa.edu/~mbognar/applets/bin.html" class="uri">https://homepage.stat.uiowa.edu/~mbognar/applets/bin.html</a></li>
+<li><strong>Binomial</strong> probabilities <a href="https://mabognar.github.io/apps/bin.html" class="uri">https://mabognar.github.io/apps/bin.html</a></li>
 <li><strong>Binomial</strong> distribution in R [Section 2.22]:
 <ul>
 <li>Probability of exactly x successes: <code>dbinom(x=k, size=n, prob=p)</code>.</li>
 <li>Probability of q or fewer successes: <code>pbinom(q=k, size=n, prob=p)</code>.</li>
 <li>Probability of more than q successes: <code>pbinom(q=k, size=n, prob=p, lower.tail=FALSE)</code>.</li>
 </ul></li>
-<li><strong>Normal</strong> probabilities <a href="https://homepage.stat.uiowa.edu/~mbognar/applets/normal.html" class="uri">https://homepage.stat.uiowa.edu/~mbognar/applets/normal.html</a></li>
-<li><strong>Normal</strong> distribution in R [Section 3.22]:
+<li><strong>Normal</strong> probabilities <a href="https://mabognar.github.io/apps/normal.html" class="uri">https://mabognar.github.io/apps/normal.html</a></li>
+<li><strong>Normal</strong> distribution in R [Section 3.26]:
 <ul>
 <li>Probability of q or less: <code>pnorm(q, mean, sd)</code>.</li>
 <li>Probability of more than q: <code>pnorm(q, mean, sd, lower.tail=FALSE)</code>.</li>
@@ -287,9 +287,9 @@ gtag('config', 'G-VQHR7ETRKE', { 'anonymize_ip': true});
 <section id="confidence-intervals" class="level3">
 <h3 class="anchored" data-anchor-id="confidence-intervals">7. Confidence Intervals</h3>
 <ul>
-<li><strong>Proportions</strong>: <code>BinomCI(x=k, n=n, method='wilson')</code> (from <code>DescTools</code> package). [Section 6.11]</li>
-<li><strong>Mean</strong> (individual data): <code>descriptives(data=dataframe, vars=variable, ci=TRUE)</code> (from <code>jmv</code>). [Section 3.23]</li>
-<li><strong>Mean</strong> (summarised data): Use the custom <code>ci_mean</code> function provided in the notes, e.g.&nbsp;<code>ci_mean(n=242, mean=128.4, sd=19.56, width=0.95)</code>. [Section 3.24]</li>
+<li><strong>Mean</strong> (individual data): <code>descriptives(data=dataframe, vars=variable, ci=TRUE)</code> (from <code>jmv</code>). [Section 3.27]</li>
+<li><strong>Mean</strong> (summarised data): Use the custom <code>ci_mean</code> function provided in the notes, e.g.&nbsp;<code>ci_mean(n=242, mean=128.4, sd=19.56, width=0.95)</code>. [Section 3.28]</li>
+<li><strong>Proportions</strong>: <code>BinomCI(x=k, n=n, method='wilson')</code> (from <code>DescTools</code> package). [Section 6.7]</li>
 </ul>
 <!-- -   Difference in Proportions: contTables(data=dataframe, rows=group, cols=outcome, diffProp=TRUE) (from jmv). -->
 <!-- -   Relative Risk: contTables(data=dataframe, rows=group, cols=outcome, relRisk=TRUE) (from jmv). -->
@@ -298,16 +298,16 @@ gtag('config', 'G-VQHR7ETRKE', { 'anonymize_ip': true});
 <section id="hypothesis-testing" class="level3">
 <h3 class="anchored" data-anchor-id="hypothesis-testing">8. Hypothesis Testing</h3>
 <ul>
-<li><strong>One-Sample T-test</strong>: <code>t.test(dataframe$variable, mu=hypothesised_mean)</code>. [Section 4.12]</li>
+<li><strong>One-Sample T-test</strong>: <code>t.test(dataframe$variable, mu=hypothesised_mean)</code>. [Section 4.17]</li>
 <li><strong>Independent Samples T-test</strong>:
 <ul>
-<li><code>ttestIS(data=dataframe, vars=continuous_var, group=group_var, meanDiff=TRUE, ci=TRUE, welchs=TRUE)</code> (from <code>jmv</code>). [Section 5.9]</li>
-<li><strong>Alternative</strong> base R: <code>t.test(continuous_var ~ group_var, data=dataframe, var.equal=FALSE)</code> [Section 5.9]</li>
+<li><code>ttestIS(data=dataframe, vars=continuous_var, group=group_var, meanDiff=TRUE, ci=TRUE, welchs=TRUE)</code> (from <code>jmv</code>). [Section 5.10]</li>
+<li><strong>Alternative</strong> base R: <code>t.test(continuous_var ~ group_var, data=dataframe, var.equal=FALSE)</code> [Section 5.10]</li>
 </ul></li>
 <li><strong>Paired T-test:</strong>
 <ul>
-<li><code>ttestPS(data=dataframe, pairs=list(list(i1="var1", i2="var2")), meanDiff=TRUE, ci=TRUE)</code> (from <code>jmv</code>). [Section 5.11]</li>
-<li><strong>Alternative</strong> base R: <code>t.test(dataframe$var1, dataframe$var2, paired=TRUE)</code>. [Section 5.11]</li>
+<li><code>ttestPS(data=dataframe, pairs=list(list(i1="var1", i2="var2")), meanDiff=TRUE, ci=TRUE)</code> (from <code>jmv</code>). [Section 5.12]</li>
+<li><strong>Alternative</strong> base R: <code>t.test(dataframe$var1, dataframe$var2, paired=TRUE)</code>. [Section 5.12]</li>
 </ul></li>
 <li><strong>One-Sample Proportion</strong> (Binomial Test): <code>binom.test(x=successes, n=trials, p=hypothesised_proportion)</code>. Also <code>prop.test()</code> for z-test. [Section 6.12]</li>
 </ul>
