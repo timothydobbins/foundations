@@ -1,5 +1,5 @@
 ---
-title: "Revised R cheat sheet"
+title: "R cheat sheet"
 ---
 
 This cheat sheet outlines key R commands and options for statistical analysis, as taught in PHCM9795 Foundations of Biostatistics.

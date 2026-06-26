@@ -1,5 +1,5 @@
 ---
-title: "Revised jamovi cheat sheet"
+title: "jamovi cheat sheet"
 ---
 
 This cheat sheet outlines key jamovi commands and navigation steps for statistical analysis, as taught in PHCM9795 Foundations of Biostatistics.
